@@ -1,0 +1,16 @@
+# Site navigation links
+- title: Home
+  url: /
+  image: home.jpg
+
+- title: Curriculum Vitae
+  url: /cv/
+  image: cv.jpg
+
+- title: Research
+  url: /research/
+  image: research.jpg
+
+- title: Tutorial
+  url: /tutorial/
+  image: tutorial.jpg

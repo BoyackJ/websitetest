@@ -1,0 +1,45 @@
+---
+layout: home
+share: false
+ads: false
+---
+
+<img src="selfie2.jpg" width="200">    
+**PhD Candidate**     
+**Mechanical and Computer Vision Engineer**
+
+School of Mechanical Engineering, Purdue University  
+Email: bradchoi343@gmail.com   
+Homepage: [bradjchoi.github.io](https://bradjchoi.github.io)    
+Google scholar: [goo.gl/QeTSgz](https://goo.gl/QeTSgz)   
+Github: [github.com/bradjchoi](https://github.com/bradjchoi)    
+YouTube: [shorturl.at/bfyPT](https://shorturl.at/bfyPT)   
+Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in/jongseong-choi-19b17617a)
+
+[**[Download CV]**](https://bradjchoi.github.io/1_Curriculum_Vitae_Brad_V3.pdf)
+
+**News**   
+(08/05/2019) The Lava Tube model generation was reported at numerous articles nationwide (e.g., usatoday.com, space.com, phys.org, etc.). Watch it online. [**[web]**](https://phys.org/news/2019-07-humans-lava-tubes-moon.html)     
+
+(07/27/2019) I attended 4-days intense training workshop (July 23-26, 2019) at NHERI RAPID Experimental Facility, University of Washington, Seattle, WC. [**[image]**](https://bradjchoi.github.io/news_NHERI.jpg)
+
+(04/23/2019) I received travel award $1,500 and workshop invitation from NHERI RAPID Experimental Facility, University of Washington, Seattle, WC. This invitation was for 30 selective researchers who are evaluated as tentative proposal PIs in conjunction with their equipment. 
+
+(04/15/2019) I was a workshop director for 4th Midwest Smart Structure Colloquium (4MSSC) held in Purdue University (Apr 12-14, 2019), West Lafayette, IN. [**[image]**](https://bradjchoi.github.io/news_4MSSC.jpg)
+
+(12/18/2018) I went trip to Lava Beds National Monument in Tulelake, CA, to generate 3D models of the cave to simulate future human habitats under Moon or Mars surfaces as a part of research project entitled "Resilience ExtraTerrestrial Habitat (RETH)", Dec 11-17, 2018. [**[image]**](https://bradjchoi.github.io/news_LavaTube.jpg) [**[PPT]**](https://bradjchoi.github.io/news_LavaTube.pdf) [**[Video]**](https://youtu.be/3PKLfVCvRDA)
+
+(09/09/2018) I received publication notification from *Sensors*;  
+**Jongseong Choi**, Chul Min Yeum, Shirley J. Dyke, and Mohammad R. Jahanshahi, “Computer-Aided Approach for Rapid Post-Event Visual Evaluation of a Building Façade,” published at *Sensors* [**[Web]**](http://www.mdpi.com/1424-8220/18/9/3017)  
+
+(07/13/2018)  I served as a volunteer for disabled people at the Revitalise-Sandpipers Centre, Southport, Merseyside, UK. [**[web]**](http://revitalise.org.uk/respite-holidays/our-centres/sandpipers/)   [**[image]**](https://bradjchoi.github.io/news_Revitalise.jpg)
+
+(07/11/2018)  I delivered a talk at conference 9th European Workshop on Structural Health Monitoring Series (EWSHM 2018), Manchester, UK, entitled “Machine-Aided Rapid Visual Evaluation of Building Façades“. [**[paper]**](https://www.ndt.net/search/docs.php3?showForm=off&id=23205) [**[image]**](https://bradjchoi.github.io/news_EWSHM2018.jpg)  
+
+(07/10/2018)  I had a meeting with Dr. Chalarampos and Sparta.co in a conjunction with STORM project funded by EU in Manchester, UK. [**[image]**](https://bradjchoi.github.io/news_STORM.jpg)
+
+(02/10/2018)  I received travel award $1,000 for conference presentation from College of Engineering, Purdue University.
+
+(07/28/2016)  I received research proposal award from NSF where I co-authored on behalf of Prof. Shirley J. Dyke with funded $100,000. [**[web]**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1645047)   
+
+Last updated: September 12, 2019

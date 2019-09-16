@@ -1,0 +1,60 @@
+# Site wide configuration
+
+title: Jongseong Choi (Brad)
+description: "Personal Website"
+logo: logo.jpg
+teaser: logo.jpg
+locale: en_US
+url: "https://bradjchoi.github.io"
+feed:
+  path: atom.xml
+
+# Jekyll configuration
+
+sass:
+  sass_dir: _sass
+  style: compressed
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 4..4
+highlighter: rouge
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+gist:
+  noscript: false
+
+# Site owner
+owner:
+  name: “Jongseong Choi (Brad)“
+  web: "https://bradjchoi.github.io"
+  bio: “Mechanical and Computer Vision Engineer"
+  avatar: "bio-photo.jpg" # 160x160 px image for author byline
+  
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp

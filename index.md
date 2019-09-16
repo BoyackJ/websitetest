@@ -35,7 +35,7 @@ Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in
 
 (07/13/2018)  I served as a volunteer for disabled people at the Revitalise-Sandpipers Centre, Southport, Merseyside, UK. [**[web]**](http://revitalise.org.uk/respite-holidays/our-centres/sandpipers/)   [**[image]**](https://bradjchoi.github.io/news_Revitalise.jpg)
 
-(07/11/2018)  I delivered a talk at the 9th European Workshop on Structural Health Monitoring Series (EWSHM 2018), Manchester, UK, entitled “Machine-Aided Rapid Visual Evaluation of Building Façades“. [**[paper]**](https://www.ndt.net/search/docs.php3?showForm=off&id=23205) [**[image]**](https://bradjchoi.github.io/news_EWSHM2018.jpg)  
+(07/11/2018)  I delivered a talk at the 9th European Workshop on Structural Health Monitoring Series (EWSHM 2018), Manchester, UK, entitled “Machine-Aided Rapid Visual Evaluation of Building Façades“. [**[paper]**](https://www.ndt.net/search/docs.php3?showForm=off&id=23205) [**[PPT]**](https://bradjchoi.github.io/news_EWSHM2018_PPT.pdf) [**[image]**](https://bradjchoi.github.io/news_EWSHM2018.jpg)  
 
 (07/10/2018)  I collaborated with Dr. Chalarampos and Sparta.co in conjunction with the STORM project funded by European Union (EU) in Manchester, UK, regarding system development. [**[image]**](https://bradjchoi.github.io/news_STORM.jpg)
 

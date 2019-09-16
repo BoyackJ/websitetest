@@ -3,7 +3,7 @@ layout: home
 share: false
 ads: false
 ---
-
+ 
 <img src="selfie2.jpg" width="200">    
 **PhD Candidate**     
 **Mechanical and Computer Vision Engineer**

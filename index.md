@@ -24,7 +24,7 @@ Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in
 
 (07/27/2019) I attended 4-days intense training workshop (July 23-26, 2019) at NHERI RAPID Experimental Facility, University of Washington, Seattle, WC. [**[image]**](https://bradjchoi.github.io/news_NHERI.jpg)
 
-(04/23/2019) I received travel award $1,500 and workshop invitation from NHERI RAPID Experimental Facility, University of Washington, Seattle, WC. This invitation was for 30 selective researchers who are evaluated as tentative proposal PIs in conjunction with their equipment. 
+(04/23/2019) I received travel award ($1,500) and workshop invitation from NHERI RAPID Experimental Facility, University of Washington, Seattle, WC. This invitation was for 30 selective researchers who were evaluated as tentative proposal PIs in conjunction with their equipment. 
 
 (04/15/2019) I was a workshop director for 4th Midwest Smart Structure Colloquium (4MSSC) held in Purdue University (Apr 12-14, 2019), West Lafayette, IN. [**[image]**](https://bradjchoi.github.io/news_4MSSC.jpg)
 

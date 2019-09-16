@@ -47,85 +47,85 @@ Thesis: *Parametric Scramjet Analysis*
 * 2008 &nbsp;&emsp; **Army Sergent**, Army in fulfillment of the military draft, South Korea    
 #### RESEARCH RECORDS 
 #### Professional research project
-* **[R8]**   Integrating Human and Machine for Post-Disaster Visual Data Analytics(01/2019 – Present)   
+* **[R8]   Integrating Human and Machine for Post-Disaster Visual Data Analytics**(01/2019 – Present)   
 -&nbsp;&emsp;&nbsp;Supported by NSF under Grant No. NSF-183573   
 -&nbsp;&emsp;&nbsp;Develop a visual data retrieving software to search for data based on visual similarity, using Siamese Network   
 -&nbsp;&emsp;&nbsp;My contribution includes developing similarity based image classification tool such as PyTorch and Tensorflow.  
--&nbsp;&emsp;&nbsp;1 journal paper in preparation **[J9]**; 1 conference paper submitted **[C7]**
+-&nbsp;&emsp;&nbsp;1 journal paper in preparation [J9]; 1 conference paper submitted [C7]
 &emsp;   
-* **[R7]**   STORM: Safeguarding Cultural Heritage through Organisational Resources Management (04/2017 – Present)    
+* **[R7]   STORM: Safeguarding Cultural Heritage through Organisational Resources Management** (04/2017 – Present)    
 -&nbsp;&emsp;&nbsp;Collaboration with European Union Grant No. H2020 n. 700191   
 -&nbsp;&emsp;&nbsp;Develop automated monitoring system for graffiti in a community   
 -&nbsp;&emsp;&nbsp;My contribution includes developing a unique graffiti detector working with 3D point cloud generated from a large number of images capture in community.   
--&nbsp;&emsp;&nbsp;1 conference paper published **[C5]**; 1 journal paper submitted **[J7]**
+-&nbsp;&emsp;&nbsp;1 conference paper published [C5]; 1 journal paper submitted [J7]
 &emsp;   
-* **[R6]**   RETH: Resilience ExtraTerrestrial Habitat (08/2018 – 01/2019)       
+* **[R6]   RETH: Resilience ExtraTerrestrial Habitat** (08/2018 – 01/2019)       
 -&nbsp;&emsp;&nbsp;Supported by New Horizon Program at Purdue University.   
 -&nbsp;&emsp;&nbsp;Develop the expertise needed to address the grand challenge of permanent human settlements outside Earth.   
 -&nbsp;&emsp;&nbsp;My contribution includes creating 3D models to capture features inside lava tubes using over 10 GB visual data.   
 -&nbsp;&emsp;&nbsp;3D models & videos were published in numerous articles worldwide (e.g., usatoday.com, space.com, phys.org, etc.); Available in https://phys.org/news/2019-07-humans-lava-tubes-moon.html   
--&nbsp;&emsp;&nbsp; conference paper published **[C6]**
+-&nbsp;&emsp;&nbsp; conference paper published [C6]
 &emsp;   
-* **[R5]**   EAGER: Active Citizen Engagement to Enable Lifecycle Management of Infrastructure Systems (05/2017 – 08/2018)   
+* **[R5]   EAGER: Active Citizen Engagement to Enable Lifecycle Management of Infrastructure Systems** (05/2017 – 08/2018)   
 -&nbsp;&emsp;&nbsp;Supported by NSF under Grant No. NSF-1645047   
 -&nbsp;&emsp;&nbsp;Develop a lifecycle structural management system using crowdsourced images.   
 -&nbsp;&emsp;&nbsp;My role is to lead project, develop demos, collect data, and publish.   
--&nbsp;&emsp;&nbsp;1 journal paper published **[J6]**; 1 journal paper submitted **[J8]**
+-&nbsp;&emsp;&nbsp;1 journal paper published [J6]; 1 journal paper submitted [J8]
 &emsp;    
-* **[R4]**   Image-Based Collection and Measurements for Construction Pay Items (05/2015 – 08/2017)   
+* **[R4]   Image-Based Collection and Measurements for Construction Pay Items** (05/2015 – 08/2017)   
 -&nbsp;&emsp;&nbsp;Supported by INDOT under Grant No. SPR-4006   
 -&nbsp;&emsp;&nbsp;Develop a tool of graphical measurement to improve efficiency and safety at a construction site.  
 -&nbsp;&emsp;&nbsp;My contribution includes constructing model, developing tool, building a drone.   
--&nbsp;&emsp;&nbsp;1 journal published **[J4]**; 1 conference paper published **[C1]**; 1 Technical Report published **[C3]**
+-&nbsp;&emsp;&nbsp;1 journal published [J4]; 1 conference paper published [C1]; 1 Technical Report published [C3]
 &emsp;    
-* **[R3]**   VEST: Soft Armor Non-Destructive Evaluation Test Method: Vibration Energy Signature Test (9/2014 – 08/2015)      
+* **[R3]   VEST: Soft Armor Non-Destructive Evaluation Test Method: Vibration Energy Signature Test** (9/2014 – 08/2015)      
 -&nbsp;&emsp;&nbsp;Supported by U.S. Department of Justice under Grant No. 2014-MU-CX-K004   
 -&nbsp;&emsp;&nbsp;Develop a non-destructive test method for soft body armor’s ballistic performance.   
 -&nbsp;&emsp;&nbsp;My role was to lead team, design systems, build experiment setup, derive model.
 &emsp;    
-* **[R2]**  High Rate Compression Performance of Smartphone Buffer Materials (08/2014 – 10/2014)   
+* **[R2]  High Rate Compression Performance of Smartphone Buffer Materials** (08/2014 – 10/2014)   
 -&nbsp;&emsp;&nbsp;Supported by Corvid co.   
 -&nbsp;&emsp;&nbsp;Assess the dynamic performance of various foam materials.   
 -&nbsp;&emsp;&nbsp;My contribution includes conducting experiments, analysis material behaviors.
 &emsp;    
-* **[R1]**   Parametric Analysis of Scramjet Engine Varying Material and Fuel (08/2012 – 05/2014)
+* **[R1]   Parametric Analysis of Scramjet Engine Varying Material and Fuel** (08/2012 – 05/2014)
 -&nbsp;&emsp;&nbsp;Supported graduate program by University of Mississippi.   
 -&nbsp;&emsp;&nbsp;Analytic research of Propulsion and Heat Transfer of an engine optimization problem.    
--&nbsp;&emsp;&nbsp;3 journal papers published **[J1]**, **[J2]**, **[J3]**; 1 Master Thesis.
+-&nbsp;&emsp;&nbsp;3 journal papers published [J1], [J2], [J3]; 1 Master Thesis.
 
 #### Individual non-funded research project
-* **[I5]**   Future Lifecycle Infrastructure Management System toward Smart City and Resiliency (01/2019 – Present)   
+* **[I5]   Future Lifecycle Infrastructure Management System toward Smart City and Resiliency** (01/2019 – Present)   
 -&nbsp;&emsp;&nbsp;Process Convolution Neural Networks (CNNs) and SIFT image features to enhance extract robust features from image, thus to automatically decipher image orientation and pose.
 &emsp;
-* **[I4]**   Optimize Maintenance Design of the Large-scale Mechanical System toward Smart Factory (01/2019 – Present)   
+* [I4]   Optimize Maintenance Design of the Large-scale Mechanical System toward Smart Factory (01/2019 – Present)   
 -&nbsp;&emsp;&nbsp;Develop a novel monitoring system toward smart factory.
 &emsp;
-* **[I3]**   Vision-based Visual Inspection System for A Large Number of Aerial Images (01/2017 – 12/2017)   
+* **[I3]   Vision-based Visual Inspection System for A Large Number of Aerial Images** (01/2017 – 12/2017)   
 -&nbsp;&emsp;&nbsp;Develop a building façade visual inspection technique using drones and orthophoto generation.    
--&nbsp;&emsp;&nbsp;1 journal paper published **[J6]**, 1 proposal submitted and funded **[P5]**
+-&nbsp;&emsp;&nbsp;1 journal paper published [J6], 1 proposal submitted and funded [P5]
 &emsp;   
-* **[I2]**   Sensor Integrated Autonomous Flight UAV System Development (05/2016 – Present)   
+* **[I2]   Sensor Integrated Autonomous Flight UAV System Development** (05/2016 – Present)   
 -&nbsp;&emsp;&nbsp;Use various sensors (LIDAR, stereo camera, and IMU) to achieve autonomous flight.
--&nbsp;&emsp;&nbsp;2 proposal submitted **[P2]**, **[P3]**
+-&nbsp;&emsp;&nbsp;2 proposal submitted [P2], [P3]
 &emsp;
-* **[I1]**   Automated Region-of-Interest Localization and Classification for Facility Visual Assessment (05/2015 – 05/2017)   
+* **[I1]   Automated Region-of-Interest Localization and Classification for Facility Visual Assessment** (05/2015 – 05/2017)   
 -&nbsp;&emsp;&nbsp;Develop an image localization technique that can be used in large-scale structures using a large volume of images.   
--&nbsp;&emsp;&nbsp;1 journal paper published **[J5]**; 1 conference paper published **[C2]**; 3 proposal submitted **[P1]**, **[P4]**
+-&nbsp;&emsp;&nbsp;1 journal paper published [J5]; 1 conference paper published [C2]; 3 proposal submitted [P1], [P4]
 
 #### Proposal development
-* **[P5]**    EAGER: Active Citizen Engagement to Enable Lifecycle Management of Infrastructure System (07/2016)   
+* **[P5]    EAGER: Active Citizen Engagement to Enable Lifecycle Management of Infrastructure System** (07/2016)   
 -&nbsp;&emsp;&nbsp;(**Funded** under Grant No. **CMMI-1645047**) Co-authored successful proposal on behalf of Prof. Shirley J. Dyke with funded $100,000 from National Science Foundation (NSF).
 &emsp;
-* **[P4]**    E-Defense Collaborative Research: Enabling Building Damage Assessment by Engaging Remote Experts (01/2018)   
+* **[P4]    E-Defense Collaborative Research: Enabling Building Damage Assessment by Engaging Remote Experts** (01/2018)   
 -&nbsp;&emsp;&nbsp;Co-authored on behalf of Prof. Shirley J. Dyke and requrested $700,000 to National Science Foundation (NSF).
 &emsp;
-* **[P3]**    S&SA: INT: Autonomous Infrastructure Inspection and Condition-Based Maintenance (05/2017)   
+* **[P3]    S&SA: INT: Autonomous Infrastructure Inspection and Condition-Based Maintenance** (05/2017)   
 -&nbsp;&emsp;&nbsp;Co-authored proposal on behalf of Prof. David. Cappelleri and requested to National Science Foundation (NSF).
 &emsp;
-* **[P2]**    S&SA: Reconfigurable Aerial Robots for Intelligent Assessment to Industrial Disasters (11/2016)   
+* **[P2]    S&SA: Reconfigurable Aerial Robots for Intelligent Assessment to Industrial Disasters** (11/2016)   
 -&nbsp;&emsp;&nbsp;Co-authored proposal on behalf of Prof. Xinyan Deng and requested to National Science Foundation (NSF).
 &emsp;
-* **[P1]**    Automated Vision-based Welding Inspection Methods on a Large-scale Structures (10/2015)   
+* **[P1]    Automated Vision-based Welding Inspection Methods on a Large-scale Structures** (10/2015)   
 -&nbsp;&emsp;&nbsp;An extended-abstract version of proposal submitted; aiming for three different applications of Dam, highway Structures, and Aircraft.   
 -&nbsp;&emsp;&nbsp;Co-authored proposal on behalf of Prof. Shirley J. Dyke and requested to Indiana Department of Transportation (INDOT).
 

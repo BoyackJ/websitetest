@@ -17,7 +17,7 @@ I took a video of a moving building structural model to capture the displacement
 
 
 ## Source Code & Data
-* All source code and data are released in [**my Github repository**](https://github.com/chulminy/Vision_Based_Vibration_Measurement). 
+* All source code and data are released in [**my Github repository**](https://github.com/bradjchoi). 
 * You can feel free to use the code and data for your research !!
 
-More information are posted in the my Github repository [[**Link**]](https://github.com/chulminy/Vision_Based_Vibration_Measurement).
+More information are posted in the my Github repository [[**Link**]](https://github.com/bradjchoi).

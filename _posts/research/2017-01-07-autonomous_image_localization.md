@@ -9,7 +9,7 @@ ads: false
 image:
   teaser: teaser_autonomous_image_localization.jpg
 
- 
+--- 
 # Autonomous Image Localization for Visual Inspection of Structural System
 
 <img src= "{{ site.url }}/research/autonomous_image_localization/Media1.gif">     |  <img src= "{{ site.url }}/research/autonomous_image_localization/Media2.gif">

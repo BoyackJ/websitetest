@@ -38,7 +38,7 @@ ads: false
 #### RESEARCH INTERESTS    
 **Computer Vision**; **Structural Health Monitoring**; **Smart Factory**; **Big Data**; **Smart Cities**; Nondestructive testing; Propulsion
 
-#### EDUCATION
+#### EDUCATION and EMPLOYMENT HISTORY
 * Pres.&nbsp;&emsp;&nbsp; **Ph.D.**, Mechanical Eng., Purdue University, USA (adviser: [**Shirley J. Dyke**](https://engineering.purdue.edu/IISL/))           
 Dissertation: *Intelligent Facility Management: Computer-aided Lifecycle Structural Monitoring Framework using Big Visual Data*
 * 2014 &nbsp;&emsp; **M.S.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  

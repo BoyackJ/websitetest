@@ -8,6 +8,7 @@ ads: false
 **PhD Candidate**     
 **Mechanical and Computer Vision Engineer**
 
+**Affiliation**   
 School of Mechanical Engineering, Purdue University  
 Email: bradchoi343@gmail.com   
 Homepage: [bradjchoi.github.io](https://bradjchoi.github.io)    

@@ -216,8 +216,7 @@ Thesis: *Parametric Scramjet Analysis*
 -&nbsp;&emsp;&nbsp;**Travel Award & Workshop Invitation** from NHERI RAPID Experimental Facility, NSF, 07/2019      
 This award selects 20 attendees who has professional research background for the RAPID 4 days Equipment Training Workshop at the University of Washington, Seattle, as well as support up to $1,500 Travel Fund.   
 -&nbsp;&emsp;&nbsp;**Travel Award for Conference** from College of Engineering, Purdue University, 05/2018   
-This award recognizes excellence PhD candidates supporting up to $1,000 for 2019 EWSHM conference at Hilton Hotel, Manchester, UK   
-This award recognizes excellence in research presentation.   
+This award recognizes excellence PhD candidates supporting up to $1,000 for 2019 EWSHM conference at Hilton Hotel, Manchester, UK     
 -&nbsp;&emsp;&nbsp;**Resident Assistant Scholarship** from University of Mississippi, 08/2012 – 08/2013
 &emsp;   
 -&nbsp;&emsp;&nbsp;**Honor Program Scholarship** from University of Mississippi, 01/2011

@@ -20,11 +20,11 @@ Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in
 [**[Download CV]**](https://bradjchoi.github.io/1_Curriculum_Vitae_Brad_V3.pdf)
 
 **News**   
-(08/05/2019) The Lava Tube model generation was reported at numerous articles nationwide (e.g., usatoday.com, space.com, phys.org, etc.). Watch it online. [**[web]**](https://phys.org/news/2019-07-humans-lava-tubes-moon.html)     
+(08/05/2019) The Lava Tube model generation was reported at numerous articles nationwide (e.g., usatoday.com, space.com, phys.org, etc.). See it online. [**[web]**](https://phys.org/news/2019-07-humans-lava-tubes-moon.html)     
 
 (07/27/2019) I attended 4-days intense training workshop (July 23-26, 2019) at NHERI RAPID Experimental Facility, University of Washington, Seattle, WC. [**[image]**](https://bradjchoi.github.io/news_NHERI.jpg)
 
-(04/23/2019) I received travel award ($1,500) and workshop invitation from NHERI RAPID Experimental Facility, University of Washington, Seattle, WC. This invitation was for 30 selective researchers who were evaluated as tentative proposal PIs in conjunction with their equipment. 
+(04/23/2019) I received travel award ($1,500) and workshop invitation from NHERI RAPID Experimental Facility, University of Washington, Seattle, WC. This invitation was for 30 selective researchers who were evaluated as tentative proposal PIs in conjunction with the facility. 
 
 (04/15/2019) I was a workshop director for 4th Midwest Smart Structure Colloquium (4MSSC) held in Purdue University (Apr 12-14, 2019), West Lafayette, IN. [**[image]**](https://bradjchoi.github.io/news_4MSSC.jpg)
 
@@ -37,9 +37,9 @@ Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in
 
 (07/11/2018)  I delivered a talk at conference 9th European Workshop on Structural Health Monitoring Series (EWSHM 2018), Manchester, UK, entitled “Machine-Aided Rapid Visual Evaluation of Building Façades“. [**[paper]**](https://www.ndt.net/search/docs.php3?showForm=off&id=23205) [**[image]**](https://bradjchoi.github.io/news_EWSHM2018.jpg)  
 
-(07/10/2018)  I had a meeting with Dr. Chalarampos and Sparta.co in a conjunction with STORM project funded by EU in Manchester, UK. [**[image]**](https://bradjchoi.github.io/news_STORM.jpg)
+(07/10/2018)  I had a meeting with Dr. Chalarampos and Sparta.co in a conjunction with STORM project funded by European Union (EU) in Manchester, UK. [**[image]**](https://bradjchoi.github.io/news_STORM.jpg)
 
-(02/10/2018)  I received travel award $1,000 for conference presentation from College of Engineering, Purdue University.
+(02/10/2018)  I received travel award from College of Engineering, Purdue University. It recognizes excellence PhD candidates supporting up to $1,000 for 2019 EWSHM conference at Hilton Hotel, Manchester, UK
 
 (07/28/2016)  I received research proposal award from NSF where I co-authored on behalf of Prof. Shirley J. Dyke with funded $100,000. [**[web]**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1645047)   
 

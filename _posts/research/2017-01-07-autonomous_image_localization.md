@@ -1,17 +1,13 @@
 ---
 layout: article
 teaser: teaser_autonomous_image_localization.jpg
-title: "Autonomous Image Localization for Visual Inspection of Structural System"
+title: "Autonomous Image Localization"
 categories: research
-modified: 9/11/2019 3:59:07 PM 
+modified: 1/2/2017 3:59:07 PM 
 comments: false
 ads: false
 image:
   teaser: teaser_autonomous_image_localization.jpg
-   
----
-
-Acceleration-based Automated Vehicle Classification on Mobile Bridges
 
 
 # Autonomous Image Localization for Visual Inspection of Structural System

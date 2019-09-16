@@ -1,14 +1,14 @@
 # Autonomous Image Localization for Visual Inspection of Structural System
 
 
-![](post/Media1.gif)     |  ![](post/Media2.gif)
+![](Media1.gif)     |  ![](Media2.gif)
 :----------------------------------------------:|:-------------------------:
 Region-of-Interest (ROI) detected from Original Images [**[Web]**](https://www.youtube.com/watch?v=vpH0TXNotmA) |  Region-of-Interest (ROI) extracted and organized for each welding [**[Web]**](https://www.youtube.com/watch?v=28iwYscckjM&t=16s)
 
 ## Description
 Low-cost, high-performance vision sensors in conjunction with aerial sensing platforms are providing new possibilities for achieving autonomous visual inspection in civil engineering structures. **A large volume of images** of a given structure can readily be collected for use in visual inspection, overcoming spatial and temporal limitations associated with human-based inspection. Although researchers have explored several algorithms and techniques for vision-based inspection in recent decades, a major challenge in past implementations lies in dealing with **a high volume of images while only a small fraction of them are important for actual inspection.** Because processing irrelevant images can generate a significant number of false-positives, **automated visual inspection techniques should be used in coordination with methods to localize relevant regions on the images**. When combined, automated visual inspection will be able to meet the objectives and quality of human visual inspection. To enable this technology, **we develop and validate a novel automated image localization technique to extract regions of interest (ROIs) on each of the images before utilizing vision-based damage detection techniques.** ROIs are the portions of an image that contain the physical region of the structure that is targeted for visual interrogation, denoted as the targeted region of interest (TRI). ROIs are computed based on the geometric relationship between the collected images and the TRIs. Analysis of such highly relevant and localized images would enable efficient and reliable visual inspection. We successfully demonstrate the capability of the technique to extract the ROIs using a full-scale highway sign structure in the case where weld connections serve as the TRIs. 
 
-![](post/overview.jpg)
+![](overview.jpg)
 
 ## Publication
 
@@ -55,19 +55,19 @@ Dimensions of the structure and layouts of reference points |  Two different siz
 ### Images of the full-scale highway sign structure
 A total of 789 images are collected, all of which are used for localizing ROIs.
 
-![](post/PlotOut1.jpg)
+![](PlotOut1.jpg)
 
 ### Transformation of the coordinate system	
 Twelve fiducial marks are manually marked on the main chords (six dots on the front and six on the back),called reference points. Each circular dot has a 1 cm diameter, which is chosen to be visible on the collected images. **We know each of their 3D locations in the TRI coordinate system, and manually find the corresponding dots across the images to define 3D locations in the SfM coordinate system. ** Finally, we will obtain M (transformation matrix) using these two sets of corresponding points in two different coordinate systems.
 
 This image shows that how M is accurately estimated. Please refer to equations in Section 2.3 in the paper. 
 
-![](post/PlotOut2.jpg);
+![](PlotOut2.jpg);
 
 ### Re-projection of the reference point to one of images
 A point of a marker (called reference point) is selected on each of image (red circle). Then, corresponding 3D point (Xs) in SfM coordinate is estimated using a set of these points across multiple images. If Xs are correctly estimated from the points, P x Xs are projected on the same point of the reference point on the image (green circle). We estimate the M matrix using a set of Xs and Xt using 7-parameter transformation. If M is correctly estimated, XT is also projected on the same point of the reference point using transformed projection matrix (P x inv(M)). This image explains that they are projected at the almost similar image point, 
 
-![](post/projection.jpg)
+![](projection.jpg)
 
 
 ### Localized Region-of-interest on each images
@@ -83,12 +83,12 @@ The ROIs of all 118 TRIs are localized in each of the collected images. Examples
 
 An example of the Type 1 weld connection |  An example of the Type 2 weld connection
 :----------------------------------------------:|:-------------------------:
-![](post/PlotOut4a.jpg)    |  ![](post/PlotOut4b.jpg)
+![](PlotOut4a.jpg)    |  ![](PlotOut4b.jpg)
 
  
 Sample baseline images used for constructing a baseline model: |  Examples of ROIs that have been localized and classified from the set of test images
 :----------------------------------------------:|:-------------------------:
-![](post/5_300dpi.jpg)    |  ![](post/7_300dpi.jpg)
+![](5_300dpi.jpg)    |  ![](7_300dpi.jpg)
 
 
 

@@ -47,7 +47,7 @@ Thesis: *Parametric Scramjet Analysis*
 * 2008 &nbsp;&emsp; **Army Sergent**, Army in fulfillment of the military draft, South Korea    
 #### RESEARCH RECORDS 
 #### Professional research project
-* **[R8]   Integrating Human and Machine for Post-Disaster Visual Data Analytics**(01/2019 – Present)   
+* **[R8]   Integrating Human and Machine for Post-Disaster Visual Data Analytics** (01/2019 – Present)   
 -&nbsp;&emsp;&nbsp;Supported by NSF under Grant No. NSF-183573   
 -&nbsp;&emsp;&nbsp;Develop a visual data retrieving software to search for data based on visual similarity, using Siamese Network   
 -&nbsp;&emsp;&nbsp;My contribution includes developing similarity based image classification tool such as PyTorch and Tensorflow.  
@@ -97,7 +97,7 @@ Thesis: *Parametric Scramjet Analysis*
 * **[I5]   Future Lifecycle Infrastructure Management System toward Smart City and Resiliency** (01/2019 – Present)   
 -&nbsp;&emsp;&nbsp;Process Convolution Neural Networks (CNNs) and SIFT image features to enhance extract robust features from image, thus to automatically decipher image orientation and pose.
 &emsp;
-* [I4]   Optimize Maintenance Design of the Large-scale Mechanical System toward Smart Factory (01/2019 – Present)   
+* **[I4]   Optimize Maintenance Design of the Large-scale Mechanical System toward Smart Factory** (01/2019 – Present)   
 -&nbsp;&emsp;&nbsp;Develop a novel monitoring system toward smart factory.
 &emsp;
 * **[I3]   Vision-based Visual Inspection System for A Large Number of Aerial Images** (01/2017 – 12/2017)   

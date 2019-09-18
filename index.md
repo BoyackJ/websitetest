@@ -12,8 +12,7 @@ ads: false
 School of Mechanical Engineering, Purdue University  
 Email: bradchoi343@gmail.com   
 Homepage: [bradjchoi.github.io](https://bradjchoi.github.io)    
-Google scholar: [goo.gl/QeTSgz](https://goo.gl/QeTSgz)   
-Github: [github.com/bradjchoi](https://github.com/bradjchoi)    
+Google scholar: [goo.gl/QeTSgz](https://goo.gl/QeTSgz)    
 YouTube: [shorturl.at/bfyPT](https://shorturl.at/bfyPT)   
 Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in/jongseong-choi-19b17617a)
 
@@ -37,7 +36,7 @@ Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in
 
 (07/11/2018)  I delivered a talk at the 9th European Workshop on Structural Health Monitoring Series (EWSHM 2018), Manchester, UK, entitled “Machine-Aided Rapid Visual Evaluation of Building Façades“. [**[paper]**](https://www.ndt.net/search/docs.php3?showForm=off&id=23205) [**[PPT]**](https://bradjchoi.github.io/news_EWSHM2018_PPT.pdf) [**[image]**](https://bradjchoi.github.io/news_EWSHM2018.jpg)  
 
-(07/10/2018)  I collaborated with Dr. Chalarampos and Sparta.co in conjunction with the STORM project funded by European Union (EU) in Manchester, UK, regarding system development. [**[image]**](https://bradjchoi.github.io/news_STORM.jpg)
+(07/10/2018)  I collaborated with Dr. Chalarampos and Sparta.co in conjunction with the STORM project funded by European Union (EU) in Manchester, UK, regarding automated maintenance system for cultural heritages in EU countries. [**[image]**](https://bradjchoi.github.io/news_STORM.jpg)
 
 (02/10/2018)  I received a travel award from the College of Engineering, Purdue University. It recognizes excellence in PhD candidates, supporting up to $1,000 for the 2019 EWSHM conference at Hilton Hotel, Manchester, UK.
 

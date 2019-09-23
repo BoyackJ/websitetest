@@ -16,7 +16,7 @@ Google scholar: [goo.gl/QeTSgz](https://goo.gl/QeTSgz)
 YouTube: [shorturl.at/bfyPT](https://shorturl.at/bfyPT)   
 Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in/jongseong-choi-19b17617a)
 
-[**[Download CV]**](https://bradjchoi.github.io/1_Curriculum_Vitae_Brad_V3.pdf)
+[**[Download CV]**](https://bradjchoi.github.io/1_(faculty)Curriculum_Vitae_Brad_V4.pdf)
 
 **News**   
 (08/05/2019) The Lava Tube model generation was reported in numerous articles nationwide (e.g., usatoday.com, space.com, phys.org, etc.). Read it online. [**[web]**](https://phys.org/news/2019-07-humans-lava-tubes-moon.html)     

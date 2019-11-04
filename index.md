@@ -4,7 +4,7 @@ share: false
 ads: false
 ---
  
-<img src="selfie6.jpg" width="150">    
+<img src="selfie4.jpg" width="150">    
 **PhD Candidate**     
 **Mechanical and Computer Vision Engineer**
 

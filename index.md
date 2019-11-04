@@ -4,7 +4,7 @@ share: false
 ads: false
 ---
  
-<img src="selfie3.jpeg" width="200">    
+<img src="selfie6.jpg" width="150">    
 **PhD Candidate**     
 **Mechanical and Computer Vision Engineer**
 
@@ -16,7 +16,7 @@ Google scholar: [goo.gl/QeTSgz](https://goo.gl/QeTSgz)
 YouTube: [https://www.youtube.com/channel/UCfUwbj8m5M7cvPJ0dd-9NxQ](https://www.youtube.com/channel/UCfUwbj8m5M7cvPJ0dd-9NxQ)   
 Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in/jongseong-choi-19b17617a)
 
-[**[Download CV]**](https://bradjchoi.github.io/Curriculum_Vitae_JongseongChoi)
+[**[Download CV]**](https://bradjchoi.github.io/Curriculum_Vitae_JongseongChoi.pdf)
 
 **News**   
 (08/05/2019) The Lava Tube model generation was reported in numerous articles nationwide (e.g., usatoday.com, space.com, phys.org, etc.). Read it online. [**[web]**](https://phys.org/news/2019-07-humans-lava-tubes-moon.html)     
@@ -42,4 +42,4 @@ Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in
 
 (07/28/2016)  I received a research proposal award of $100,000 from NSF that I co-authored on behalf of Prof. Shirley J. Dyke. [**[web]**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1645047)   
 
-Last updated: September 12, 2019
+Last updated: November 01, 2019

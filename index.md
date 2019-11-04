@@ -4,11 +4,10 @@ share: false
 ads: false
 ---
  
-<img src="selfie4.jpg" width="150">    
-**PhD Candidate**     
+<img src="selfie4.jpg" width="200">    
+**PhD Candidate / Graduate Research Assistant**     
 **Mechanical and Computer Vision Engineer**
 
-**Affiliation**   
 School of Mechanical Engineering, Purdue University  
 Email: bradchoi343@gmail.com   
 Homepage: [bradjchoi.github.io](https://bradjchoi.github.io)    

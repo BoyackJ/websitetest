@@ -38,14 +38,12 @@ ads: false
  **Visual Analytic**; **Engineering Mechanics**; **Computer Vision**; **Machine Learning**; **Sustainable Structure**; **Big Visual Data**; **Multiview Geometry**; **Aerial Manipulation**; Nondestructive testing; Numerical Heat Transfer
 
 #### EDUCATION and EMPLOYMENT HISTORY
-2020 &nbsp;&emsp;&nbsp; **Ph.D.**, Mechanical Eng., Purdue University, USA (adviser: [**Shirley J. Dyke**](https://engineering.purdue.edu/IISL/))           
+* 2020 &nbsp;&emsp;&nbsp; **Ph.D.**, Mechanical Eng., Purdue University, USA (adviser: [**Shirley J. Dyke**](https://engineering.purdue.edu/IISL/))           
 Dissertation: *Automating Visual Data Collection and Analytics toward Lifecycle Management of Engineering Systems*
-
-2014 &nbsp;&emsp; **M.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  
+* 2014 &nbsp;&emsp; **M.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  
 Thesis: *Parametric Scramjet Analysis*
-
-2012 &nbsp;&emsp; **B.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  
-2008 &nbsp;&emsp; **Army Sergent**, Army in fulfillment of the military draft, South Korea    
+* 2012 &nbsp;&emsp; **B.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  
+* 2008 &nbsp;&emsp; **Army Sergent**, Army in fulfillment of the military draft, South Korea    
 
 #### RESEARCH RECORDS 
 #### Professional research project
@@ -115,41 +113,41 @@ Thesis: *Parametric Scramjet Analysis*
 -&nbsp;&emsp;&nbsp;1 journal paper published [J5]; 1 conference paper published [C2]; 3 proposal submitted [P1], [P4]
 
 #### Proposal development
-**[P5]    EAGER: Active Citizen Engagement to Enable Lifecycle Management of Infrastructure System** (07/2016)   
+* **[P5]    EAGER: Active Citizen Engagement to Enable Lifecycle Management of Infrastructure System** (07/2016)   
 -&nbsp;&emsp;&nbsp;(**Funded** under Grant No. **CMMI-1645047**) Co-authored successful proposal on behalf of Prof. Shirley J. Dyke with funded $100,000 from National Science Foundation (NSF).
 
-**[P4]    E-Defense Collaborative Research: Enabling Building Damage Assessment by Engaging Remote Experts** (01/2018)   
+* **[P4]    E-Defense Collaborative Research: Enabling Building Damage Assessment by Engaging Remote Experts** (01/2018)   
 -&nbsp;&emsp;&nbsp;Co-authored on behalf of Prof. Shirley J. Dyke and requrested $700,000 to National Science Foundation (NSF).
 
-**[P3]    S&SA: INT: Autonomous Infrastructure Inspection and Condition-Based Maintenance** (05/2017)   
+* **[P3]    S&SA: INT: Autonomous Infrastructure Inspection and Condition-Based Maintenance** (05/2017)   
 -&nbsp;&emsp;&nbsp;Co-authored proposal on behalf of Prof. David. Cappelleri and requested to National Science Foundation (NSF).
 
-**[P2]    S&SA: Reconfigurable Aerial Robots for Intelligent Assessment to Industrial Disasters** (11/2016)   
+* **[P2]    S&SA: Reconfigurable Aerial Robots for Intelligent Assessment to Industrial Disasters** (11/2016)   
 -&nbsp;&emsp;&nbsp;Co-authored proposal on behalf of Prof. Xinyan Deng and requested to National Science Foundation (NSF).
 
-**[P1]    Automated Vision-based Welding Inspection Methods on a Large-scale Structures** (10/2015)   
+* **[P1]    Automated Vision-based Welding Inspection Methods on a Large-scale Structures** (10/2015)   
 -&nbsp;&emsp;&nbsp;An extended-abstract version of proposal submitted; aiming for three different applications of Dam, highway Structures, and Aircraft.   
 -&nbsp;&emsp;&nbsp;Co-authored proposal on behalf of Prof. Shirley J. Dyke and requested to Indiana Department of Transportation (INDOT).
 
 #### Peer-reviewed journal papers
-**[J10]**   **Jongseong Choi**, Chul Min Yeum, Ali Lenjani, & Shirley J. Dyke, A Novel Building Searching & Identification Method for A Large Volume of Reconnaissance Images, in preparation - exp. submission in February 2020.
-**[J9]**   **Jongseong Choi** & Shirley J. Dyke (2020), CrowdLIM: Crowdsourcing to Enable Lifecycle Infrastructure Management. *Computers in Industry*, 115, 103185. [**[web]**](https://www-sciencedirect-com.ezproxy.lib.purdue.edu/science/article/pii/S0166361519304981?dgcid=author)    
-**[J8]**   Ali Lenjani, Shirley J. Dyke, Ilias Bilionis, Chul Min Yeum, Kenzo Kamiya, **Jongseong Choi**, Xiaoyu Liu, & Arindam G. Chowdhury (2019), Towards fully automated post-event data collection and analysis: pre-event and post-event information fusion. *Engineering Structure*. (Accepted) [**[web]**](https://arxiv.org/pdf/1907.05285.pdf)          
-**[J7]**   **Jongseong Choi**, Patrikakis Charalampos, Chul Min Yeum, & Shirley J. Dyke, Robust Graffiti Detection Approach in European Historical Monuments, under review     
-**[J6]**   **Jongseong Choi**., Chul Min Yeum, Shirley J. Dyke, & Mohammad J. Jahanshahi (2018), Computer-aided approach for rapid post-event visual evaluation of a building façade. *Sensors*, 18(9), 3017. [**[web]**](https://www.mdpi.com/1424-8220/18/9/3017)        
-**[J5]**   Chul Min Yeum, **Jongseong Choi**, & Shirley J. Dyke. (2018), Automated region-of-interest localization and classification for vision-based visual assessment of civil infrastructure. *Structural Health Monitoring*, 1475921718765419. [**[web]**](https://journals.sagepub.com/doi/abs/10.1177/1475921718765419)        
-**[J4]**   Chul Min Yeum, **Jongseong Choi**, & Shirley J. Dyke (2017), Autonomous image localization for visual inspection of civil infrastructure. *Smart Materials and Structures*, 26(3), 035051. [**[web]**](hhttps://iopscience.iop.org/article/10.1088/1361-665X/aa510e/pdf)         
-**[J3]**   Jeffrey A. Roux, **Jongseong Choi**, & Neerad Shakya (2014), Parametric scramjet cycle analysis for nonideal mass flow rate. *Journal of Thermophysics and Heat Transfer*, 28(1), 166-171. [**[web]**](https://arc.aiaa.org/doi/abs/10.2514/1.T4217?journalCode=jtht)       
-**[J2]**   Jeffrey A. Roux, Neerad Shakya, & **Jongseong Choi** (2013), Scramjet: minimum thrust-specific fuel consumption with material limit. *Journal of Thermophysics and Heat Transfer*, 27(2), 367-368. [**[web]**](https://arc.aiaa.org/doi/abs/10.2514/1.T4045?journalCode=jtht)        
-**[J1]**   Jeffrey A. Roux, Neerad Shakya, & **Jongseong Choi** (2012), Revised parametric ideal scramjet cycle analysis. *Journal of Thermophysics and Heat Transfer*, 27(1), 178-183. [**[web]**](https://arc.aiaa.org/doi/abs/10.2514/1.T3961?journalCode=jtht)     
+* **[J10]**   **Jongseong Choi**, Chul Min Yeum, Ali Lenjani, & Shirley J. Dyke, A Novel Building Searching & Identification Method for A Large Volume of Reconnaissance Images, in preparation - exp. submission in February 2020.
+* **[J9]**   **Jongseong Choi** & Shirley J. Dyke (2020), CrowdLIM: Crowdsourcing to Enable Lifecycle Infrastructure Management. *Computers in Industry*, 115, 103185. [**[web]* **](https://www-sciencedirect-com.ezproxy.lib.purdue.edu/science/article/pii/S0166361519304981?dgcid=author)    
+* **[J8]**   Ali Lenjani, Shirley J. Dyke, Ilias Bilionis, Chul Min Yeum, Kenzo Kamiya, **Jongseong Choi**, Xiaoyu Liu, & Arindam G. Chowdhury (2019), Towards fully automated post-event data collection and analysis: pre-event and post-event information fusion. *Engineering Structure*. (Accepted) [**[web]**](https://arxiv.org/pdf/1907.05285.pdf)          
+* **[J7]**   **Jongseong Choi**, Patrikakis Charalampos, Chul Min Yeum, & Shirley J. Dyke, Robust Graffiti Detection Approach in European Historical Monuments, under review     
+* **[J6]**   **Jongseong Choi**., Chul Min Yeum, Shirley J. Dyke, & Mohammad J. Jahanshahi (2018), Computer-aided approach for rapid post-event visual evaluation of a building façade. *Sensors*, 18(9), 3017. [**[web]**](https://www.mdpi.com/1424-8220/18/9/3017)        
+* **[J5]**   Chul Min Yeum, **Jongseong Choi**, & Shirley J. Dyke. (2018), Automated region-of-interest localization and classification for vision-based visual assessment of civil infrastructure. *Structural Health Monitoring*, 1475921718765419. [**[web]**](https://journals.sagepub.com/doi/abs/10.1177/1475921718765419)        
+* **[J4]**   Chul Min Yeum, **Jongseong Choi**, & Shirley J. Dyke (2017), Autonomous image localization for visual inspection of civil infrastructure. *Smart Materials and Structures*, 26(3), 035051. [**[web]**](hhttps://iopscience.iop.org/article/10.1088/1361-665X/aa510e/pdf)         
+* **[J3]**   Jeffrey A. Roux, **Jongseong Choi**, & Neerad Shakya (2014), Parametric scramjet cycle analysis for nonideal mass flow rate. *Journal of Thermophysics and Heat Transfer*, 28(1), 166-171. [**[web]**](https://arc.aiaa.org/doi/abs/10.2514/1.T4217?journalCode=jtht)       
+* **[J2]**   Jeffrey A. Roux, Neerad Shakya, & **Jongseong Choi** (2013), Scramjet: minimum thrust-specific fuel consumption with material limit. *Journal of Thermophysics and Heat Transfer*, 27(2), 367-368. [**[web]**](https://arc.aiaa.org/doi/abs/10.2514/1.T4045?journalCode=jtht)        
+* **[J1]**   Jeffrey A. Roux, Neerad Shakya, & **Jongseong Choi** (2012), Revised parametric ideal scramjet cycle analysis. *Journal of Thermophysics and Heat Transfer*, 27(1), 178-183. [**[web]**](https://arc.aiaa.org/doi/abs/10.2514/1.T3961?journalCode=jtht)     
 
 #### Referred conference papers & other articles
-**[C6]**   Shirley J. Dyke, Xiaoyu Liu, **Jongseong Choi**, Chul Min Yeum, Juan Park, Ali Lenjani, Julio A. Ramirez, & Randall Poston (2020), “Learning from Earthquakes Using the Automatic Reconnaissance Image Organizer,” Proceedings of 17th World Conference on Earthquake Engineering, Sendai, Japan, Sep 13-18, 2020.   
-**[C5]**   Audai Theinat, Anahita Modiriasari, Antonio Bobet, Jay Melosh, Shirley J. Dyke, Julio A. Ramirez, **Jongseong Choi**, Amin Maghareh, & Daniel Gomez (2019, March), “Geology Explorations of Lava Tubes in the National Beds Lava Monuments,” In Lunar and Planetary Science Conference (Vol. 50).      
-**[C4]**   **Jongseong Choi**, Chul Min Yeum, Shirley J. Dyke, Mohammad R. Jahanshahi, & Gun Wook Park (2018), “Rapid Vision-Based Inspection of Nonstructural Components in Buildings,” Proceedings of the 9th European Workshop on Structural Health Monitoring, Manchester, UK, July 10-13, 2018.  [**[paper]**](https://bradjchoi.github.io/cv/Files/Conference/2018_EWSHM_Paper.pdf), [**[PPT]**](https://bradjchoi.github.io/cv/Files/Conference/2018_EWSHM_PPT.pdf)            
-**[C3]**   Chul Min Yeum, Anup Mohan, Shirley J. Dyke, Mohammad R. Jahanshahi, **Jongseong Choi**, Ziyi Zhao, & Julio A. Ramirez (2017), “Image-Based Collection and Measurements for Construction Pay Items,” Purdue University e-publidation.  [**[web]**](https://docs.lib.purdue.edu/jtrp/1646/)     
-**[C2]**   Chul Min Yeum, **Jongseong Choi**, & Shirley J. Dyke (2017), “Automated Region-of-Interest Localization and Classification for Visual Assessment on Civil Infrastructure,” Proceedings of the 11th International Workshop on Structural Health Monitoring, Stanford, CA, September 12-14, 2017. [**[paper]**](https://bradjchoi.github.io/cv/Files/Conference/2017_IWSHM_Paper.pdf), [**[PPT]**](https://bradjchoi.github.io/cv/Files/Conference/2017_IWSHM_PPT.pdf)             
-**[C1]**   Chul Min Yeum, **Jongseong Choi**, & Shirley J. Dyke (2017), “Image Localization for Computer-enhanced Visual Inspection of Civil Infrastructure,” Proceedings of Engineering Mechanics Institute Conference, San Diago, CA, United States, June 4-7, 2017. [**[paper]**](https://bradjchoi.github.io/cv/Files/Conference/2017_EMI_Paper.pdf), [**[PPT]**](https://bradjchoi.github.io/cv/Files/Conference/2017_EMI_PPT.pdf)          
+* **[C6]**   Shirley J. Dyke, Xiaoyu Liu, **Jongseong Choi**, Chul Min Yeum, Juan Park, Ali Lenjani, Julio A. Ramirez, & Randall Poston (2020), “Learning from Earthquakes Using the Automatic Reconnaissance Image Organizer,” Proceedings of 17th World Conference on Earthquake Engineering, Sendai, Japan, Sep 13-18, 2020.   
+* **[C5]**   Audai Theinat, Anahita Modiriasari, Antonio Bobet, Jay Melosh, Shirley J. Dyke, Julio A. Ramirez, **Jongseong Choi**, Amin Maghareh, & Daniel Gomez (2019, March), “Geology Explorations of Lava Tubes in the National Beds Lava Monuments,” In Lunar and Planetary Science Conference (Vol. 50).      
+* **[C4]**   **Jongseong Choi**, Chul Min Yeum, Shirley J. Dyke, Mohammad R. Jahanshahi, & Gun Wook Park (2018), “Rapid Vision-Based Inspection of Nonstructural Components in Buildings,” Proceedings of the 9th European Workshop on Structural Health Monitoring, Manchester, UK, July 10-13, 2018.  [**[paper]**](https://bradjchoi.github.io/cv/Files/Conference/2018_EWSHM_Paper.pdf), [**[PPT]**](https://bradjchoi.github.io/cv/Files/Conference/2018_EWSHM_PPT.pdf)            
+* **[C3]**   Chul Min Yeum, Anup Mohan, Shirley J. Dyke, Mohammad R. Jahanshahi, **Jongseong Choi**, Ziyi Zhao, & Julio A. Ramirez (2017), “Image-Based Collection and Measurements for Construction Pay Items,” Purdue University e-publidation.  [**[web]**](https://docs.lib.purdue.edu/jtrp/1646/)     
+* **[C2]**   Chul Min Yeum, **Jongseong Choi**, & Shirley J. Dyke (2017), “Automated Region-of-Interest Localization and Classification for Visual Assessment on Civil Infrastructure,” Proceedings of the 11th International Workshop on Structural Health Monitoring, Stanford, CA, September 12-14, 2017. [**[paper]**](https://bradjchoi.github.io/cv/Files/Conference/2017_IWSHM_Paper.pdf), [**[PPT]**](https://bradjchoi.github.io/cv/Files/Conference/2017_IWSHM_PPT.pdf)             
+* **[C1]**   Chul Min Yeum, **Jongseong Choi**, & Shirley J. Dyke (2017), “Image Localization for Computer-enhanced Visual Inspection of Civil Infrastructure,” Proceedings of Engineering Mechanics Institute Conference, San Diago, CA, United States, June 4-7, 2017. [**[paper]**](https://bradjchoi.github.io/cv/Files/Conference/2017_EMI_Paper.pdf), [**[PPT]**](https://bradjchoi.github.io/cv/Files/Conference/2017_EMI_PPT.pdf)          
 
 #### Professional talks & presentations
 * Professional Presentation, Midwest Smart Structure Colloquium (MSSC), Midwest US (11/2015, 10/2016, 10/2017, and 4/2019)   

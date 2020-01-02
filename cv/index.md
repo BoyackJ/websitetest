@@ -39,14 +39,14 @@ ads: false
 
 #### EDUCATION and EMPLOYMENT HISTORY
 * 2020 &nbsp;&emsp;&nbsp; **Ph.D.**, Mechanical Eng., Purdue University, USA (adviser: [**Shirley J. Dyke**](https://engineering.purdue.edu/IISL/))           
-&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp; Dissertation: *Automating Visual Data Collection and Analytics toward Lifecycle Management of Engineering Systems*
+&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&nbsp; Dissertation: *Automating Visual Data Collection and Analytics toward Lifecycle Management of Engineering Systems*
 * 2014 &nbsp;&emsp; **M.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  
-&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp; Thesis: *Parametric Scramjet Analysis*
+&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&nbsp; Thesis: *Parametric Scramjet Analysis*
 * 2012 &nbsp;&emsp; **B.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  
 * 2008 &nbsp;&emsp; **Army Sergent**, Army in fulfillment of the military draft, South Korea    
 
 #### RESEARCH RECORDS 
-#### Professional research project
+#### professional research project
 * **Integrating Human and Machine for Post-Disaster Visual Data Analytic** (01/2019 – Present)   
 -&nbsp;&emsp;&nbsp;Supported by NSF under Grant No. NSF-1835473  
 -&nbsp;&emsp;&nbsp;Develop a visual data retrieving software to search for data based on visual similarity, using Siamese Network.  
@@ -93,7 +93,7 @@ ads: false
 -&nbsp;&emsp;&nbsp;Analytic research of Propulsion and Heat Transfer of an engine optimization problem.    
 -&nbsp;&emsp;&nbsp;3 journal papers published [J1], [J2], [J3]; 1 Master Thesis.
 
-#### Individual non-funded research project
+#### individual non-funded research project
 * **Future Lifecycle Infrastructure Management System toward Smart City and Resiliency** (01/2019 – Present)   
 -&nbsp;&emsp;&nbsp;Process Convolution Neural Networks (CNNs) and SIFT image features to enhance extract robust features from image, thus to automatically decipher image orientation and pose.
 &emsp;
@@ -112,7 +112,7 @@ ads: false
 -&nbsp;&emsp;&nbsp;Develop an image localization technique that can be used in large-scale structures using a large volume of images.   
 -&nbsp;&emsp;&nbsp;1 journal paper published [J5]; 1 conference paper published [C2]; 3 proposal submitted [P1], [P4]
 
-#### Proposal development
+#### proposal development
 * **[P5]    EAGER: Active Citizen Engagement to Enable Lifecycle Management of Infrastructure System** (07/2016)   
 -&nbsp;&emsp;&nbsp;(**Funded** under Grant No. **CMMI-1645047**) Co-authored successful proposal on behalf of Prof. Shirley J. Dyke with funded $100,000 from National Science Foundation (NSF).
 * **[P4]    E-Defense Collaborative Research: Enabling Building Damage Assessment by Engaging Remote Experts** (01/2018)   
@@ -125,7 +125,7 @@ ads: false
 -&nbsp;&emsp;&nbsp;An extended-abstract version of proposal submitted; aiming for three different applications of Dam, highway Structures, and Aircraft.   
 -&nbsp;&emsp;&nbsp;Co-authored proposal on behalf of Prof. Shirley J. Dyke and requested to Indiana Department of Transportation (INDOT).
 
-#### Peer-reviewed journal papers
+#### peer-reviewed journal papers
 * **[J10]**   **Jongseong Choi**, Chul Min Yeum, Ali Lenjani, & Shirley J. Dyke, A Novel Building Searching & Identification Method for A Large Volume of Reconnaissance Images, in preparation - exp. submission in February 2020.
 * **[J9]**   **Jongseong Choi** & Shirley J. Dyke (2020), CrowdLIM: Crowdsourcing to Enable Lifecycle Infrastructure Management. *Computers in Industry*, 115, 103185. [**[web]* **](https://www-sciencedirect-com.ezproxy.lib.purdue.edu/science/article/pii/S0166361519304981?dgcid=author)    
 * **[J8]**   Ali Lenjani, Shirley J. Dyke, Ilias Bilionis, Chul Min Yeum, Kenzo Kamiya, **Jongseong Choi**, Xiaoyu Liu, & Arindam G. Chowdhury (2019), Towards fully automated post-event data collection and analysis: pre-event and post-event information fusion. *Engineering Structure*. (Accepted) [**[web]**](https://arxiv.org/pdf/1907.05285.pdf)          
@@ -137,7 +137,7 @@ ads: false
 * **[J2]**   Jeffrey A. Roux, Neerad Shakya, & **Jongseong Choi** (2013), Scramjet: minimum thrust-specific fuel consumption with material limit. *Journal of Thermophysics and Heat Transfer*, 27(2), 367-368. [**[web]**](https://arc.aiaa.org/doi/abs/10.2514/1.T4045?journalCode=jtht)        
 * **[J1]**   Jeffrey A. Roux, Neerad Shakya, & **Jongseong Choi** (2012), Revised parametric ideal scramjet cycle analysis. *Journal of Thermophysics and Heat Transfer*, 27(1), 178-183. [**[web]**](https://arc.aiaa.org/doi/abs/10.2514/1.T3961?journalCode=jtht)     
 
-#### Referred conference papers & other articles
+#### referred conference papers & other articles
 * **[C6]**   Shirley J. Dyke, Xiaoyu Liu, **Jongseong Choi**, Chul Min Yeum, Juan Park, Ali Lenjani, Julio A. Ramirez, & Randall Poston (2020), “Learning from Earthquakes Using the Automatic Reconnaissance Image Organizer,” Proceedings of 17th World Conference on Earthquake Engineering, Sendai, Japan, Sep 13-18, 2020.   
 * **[C5]**   Audai Theinat, Anahita Modiriasari, Antonio Bobet, Jay Melosh, Shirley J. Dyke, Julio A. Ramirez, **Jongseong Choi**, Amin Maghareh, & Daniel Gomez (2019, March), “Geology Explorations of Lava Tubes in the National Beds Lava Monuments,” In Lunar and Planetary Science Conference (Vol. 50).      
 * **[C4]**   **Jongseong Choi**, Chul Min Yeum, Shirley J. Dyke, Mohammad R. Jahanshahi, & Gun Wook Park (2018), “Rapid Vision-Based Inspection of Nonstructural Components in Buildings,” Proceedings of the 9th European Workshop on Structural Health Monitoring, Manchester, UK, July 10-13, 2018.  [**[paper]**](https://bradjchoi.github.io/cv/Files/Conference/2018_EWSHM_Paper.pdf), [**[PPT]**](https://bradjchoi.github.io/cv/Files/Conference/2018_EWSHM_PPT.pdf)            
@@ -145,14 +145,14 @@ ads: false
 * **[C2]**   Chul Min Yeum, **Jongseong Choi**, & Shirley J. Dyke (2017), “Automated Region-of-Interest Localization and Classification for Visual Assessment on Civil Infrastructure,” Proceedings of the 11th International Workshop on Structural Health Monitoring, Stanford, CA, September 12-14, 2017. [**[paper]**](https://bradjchoi.github.io/cv/Files/Conference/2017_IWSHM_Paper.pdf), [**[PPT]**](https://bradjchoi.github.io/cv/Files/Conference/2017_IWSHM_PPT.pdf)             
 * **[C1]**   Chul Min Yeum, **Jongseong Choi**, & Shirley J. Dyke (2017), “Image Localization for Computer-enhanced Visual Inspection of Civil Infrastructure,” Proceedings of Engineering Mechanics Institute Conference, San Diago, CA, United States, June 4-7, 2017. [**[paper]**](https://bradjchoi.github.io/cv/Files/Conference/2017_EMI_Paper.pdf), [**[PPT]**](https://bradjchoi.github.io/cv/Files/Conference/2017_EMI_PPT.pdf)          
 
-#### Professional talks & presentations
+#### professional talks & presentations
 * Professional Presentation, Midwest Smart Structure Colloquium (MSSC), Midwest US (11/2015, 10/2016, 10/2017, and 4/2019)   
 * Professional Presentation, 9th European Workshop on Structural Health Monitoring, Manchester, UK, July (08/2018)   
 * Poster Session, Annual Herrick IAC board meeting, West Lafayette, IN, USA (11/2015, 11/2016, 11/2017, and 11/2018)
 
 #### TEACHING / MENTORING RECORDS
 
-#### Research advising (5 undergraduate students)
+#### research advising (5 undergraduate students)
 * Undergraduate Research Advisor (08/2016 – current)   
 -&nbsp;&emsp;&nbsp;**Yisong Yin**, Undergrad Independent Research (Senior), 6 credits (Fall 2016 – Spring 2017)   
 -&nbsp;&emsp;&nbsp;**Sharda Parth**, Undergrad Independent Research (Senior), 3 credits (Spring 2017)   
@@ -161,7 +161,7 @@ ads: false
 -&nbsp;&emsp;&nbsp;**Jonghyun Park**, Undergrad Independent Research (Senior), 6 credits (Spring 2018 – current)   
 -&nbsp;&emsp;&nbsp;**Wookjin Chung**, Undergrad Independent Research (Senior), 6 credits (Spring 2018 – current)
 
-#### Course teaching
+#### course teaching
 * **Teaching Assistant** (05/2013 – 05/2014)   
 -&nbsp;&emsp;&nbsp;**ME325 Dynamics** (typ. 70 students)    
 -&nbsp;&emsp;&nbsp;Primary responsibilities included weekly setup of equipment, presentation of pre-lab lectures, and grading.
@@ -177,7 +177,7 @@ ads: false
 -&nbsp;&emsp;&nbsp;Collaboration between STEM disciplinary faculty and grades 3-6 teachers to develop engineering-based tasks.    
 -&nbsp;&emsp;&nbsp;My role includes analyzing video data to observe students’ behavior (09/2015 – 08/2016)
 
-#### Teaching and educational services
+#### teaching and educational services
 * TRAILS K-12 Outreach: Collaborated Eng. Project & Activity w/ McCutcheon High School (Lafayette, IN)   
 * TRAILS K-12 Outreach: Collaborated Project Evaluation w/ Mishawaka High School (South Bend, IN)   
 * TRAILS K-12 Outreach: Collaborated Eng. Project Activity w/ Wea Ridge Middle School (Lafayette, IN)   

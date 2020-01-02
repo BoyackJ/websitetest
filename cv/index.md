@@ -61,7 +61,7 @@ Thesis: *Parametric Scramjet Analysis*
 -&nbsp;&emsp;&nbsp;My contribution includes developing a unique graffiti detector working with 3D point cloud generated from a large number of images capture in community.   
 -&nbsp;&emsp;&nbsp;1 conference paper published [C4]; 1 journal paper under review [J7]
 &emsp;   
-* **[RETH: Resilience ExtraTerrestrial Habitat** (08/2018 – 01/2019)       
+* **RETH: Resilience ExtraTerrestrial Habitat** (08/2018 – 01/2019)       
 -&nbsp;&emsp;&nbsp;Supported by New Horizon Program at Purdue University.   
 -&nbsp;&emsp;&nbsp;Develop the expertise needed to address the grand challenge of permanent human settlements outside Earth.   
 -&nbsp;&emsp;&nbsp;My contribution includes creating 3D models to capture features inside lava tubes using over 10 GB visual data.  
@@ -117,12 +117,16 @@ Thesis: *Parametric Scramjet Analysis*
 #### Proposal development
 **[P5]    EAGER: Active Citizen Engagement to Enable Lifecycle Management of Infrastructure System** (07/2016)   
 -&nbsp;&emsp;&nbsp;(**Funded** under Grant No. **CMMI-1645047**) Co-authored successful proposal on behalf of Prof. Shirley J. Dyke with funded $100,000 from National Science Foundation (NSF).
+
 **[P4]    E-Defense Collaborative Research: Enabling Building Damage Assessment by Engaging Remote Experts** (01/2018)   
 -&nbsp;&emsp;&nbsp;Co-authored on behalf of Prof. Shirley J. Dyke and requrested $700,000 to National Science Foundation (NSF).
+
 **[P3]    S&SA: INT: Autonomous Infrastructure Inspection and Condition-Based Maintenance** (05/2017)   
 -&nbsp;&emsp;&nbsp;Co-authored proposal on behalf of Prof. David. Cappelleri and requested to National Science Foundation (NSF).
+
 **[P2]    S&SA: Reconfigurable Aerial Robots for Intelligent Assessment to Industrial Disasters** (11/2016)   
 -&nbsp;&emsp;&nbsp;Co-authored proposal on behalf of Prof. Xinyan Deng and requested to National Science Foundation (NSF).
+
 **[P1]    Automated Vision-based Welding Inspection Methods on a Large-scale Structures** (10/2015)   
 -&nbsp;&emsp;&nbsp;An extended-abstract version of proposal submitted; aiming for three different applications of Dam, highway Structures, and Aircraft.   
 -&nbsp;&emsp;&nbsp;Co-authored proposal on behalf of Prof. Shirley J. Dyke and requested to Indiana Department of Transportation (INDOT).

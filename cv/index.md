@@ -35,62 +35,59 @@ ads: false
 
 
 #### RESEARCH INTERESTS    
- Visual Analytic; Engineering Mechanics; Computer Vision; Machine Learning; Sustainable Structure; Big Visual Data; Multiview Geometry; Aerial Manipulation; Nondestructive testing; Numerical Heat Transfer
+ **Visual Analytic**; **Engineering Mechanics**; **Computer Vision**; **Machine Learning**; **Sustainable Structure**; **Big Visual Data**; **Multiview Geometry**; **Aerial Manipulation**; Nondestructive testing; Numerical Heat Transfer
 
 #### EDUCATION and EMPLOYMENT HISTORY
-2020 &nbsp;&emsp;&nbsp; **Ph.D.**, Mechanical Eng., Purdue University, USA (adviser: [**Shirley J. Dyke**](https://engineering.purdue.edu/IISL/))           
-> Dissertation: *Automating Visual Data Collection and Analytics toward Lifecycle Management of Engineering Systems*
- 
-2014 &nbsp;&emsp; **M.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  
-> Thesis: *Parametric Scramjet Analysis*
-
-2012 &nbsp;&emsp; **B.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  
-2008 &nbsp;&emsp; **Army Sergent**, Army in fulfillment of the military draft, South Korea
-    
+* 2020 &nbsp;&emsp;&nbsp; **Ph.D.**, Mechanical Eng., Purdue University, USA (adviser: [**Shirley J. Dyke**](https://engineering.purdue.edu/IISL/))           
+Dissertation: *Automating Visual Data Collection and Analytics toward Lifecycle Management of Engineering Systems*
+* 2014 &nbsp;&emsp; **M.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  
+Thesis: *Parametric Scramjet Analysis*
+* 2012 &nbsp;&emsp; **B.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  
+* 2008 &nbsp;&emsp; **Army Sergent**, Army in fulfillment of the military draft, South Korea    
 #### RESEARCH RECORDS 
 #### Professional research project
-* **[R8Integrating Human and Machine for Post-Disaster Visual Data Analytic** (01/2019 – Present)   
+**Integrating Human and Machine for Post-Disaster Visual Data Analytic** (01/2019 – Present)   
 -&nbsp;&emsp;&nbsp;Supported by NSF under Grant No. NSF-1835473  
 -&nbsp;&emsp;&nbsp;Develop a visual data retrieving software to search for data based on visual similarity, using Siamese Network.  
 -&nbsp;&emsp;&nbsp;My contribution includes developing similarity-based image classification tool such as PyTorch and Tensorflow. 
 -&nbsp;&emsp;&nbsp;1 journal paper accepted [J10]; 1 journal paper in preparation [J9]; 1 conference paper submitted [C6]
 &emsp;   
-* **[R7]   STORM: Safeguarding Cultural Heritage through Organisational Resources Management** (04/2017 – Present)    
+**STORM: Safeguarding Cultural Heritage through Organisational Resources Management** (04/2017 – Present)    
 -&nbsp;&emsp;&nbsp;Collaboration with European Union Grant No. H2020 n. 700191   
 -&nbsp;&emsp;&nbsp;Develop automated monitoring system for graffiti in a community   
 -&nbsp;&emsp;&nbsp;My contribution includes developing a unique graffiti detector working with 3D point cloud generated from a large number of images capture in community.   
 -&nbsp;&emsp;&nbsp;1 conference paper published [C4]; 1 journal paper under review [J7]
 &emsp;   
-* **[R6]   RETH: Resilience ExtraTerrestrial Habitat** (08/2018 – 01/2019)       
+**[RETH: Resilience ExtraTerrestrial Habitat** (08/2018 – 01/2019)       
 -&nbsp;&emsp;&nbsp;Supported by New Horizon Program at Purdue University.   
 -&nbsp;&emsp;&nbsp;Develop the expertise needed to address the grand challenge of permanent human settlements outside Earth.   
 -&nbsp;&emsp;&nbsp;My contribution includes creating 3D models to capture features inside lava tubes using over 10 GB visual data.  
 -&nbsp;&emsp;&nbsp;3D models & videos were published in numerous articles nationwide (e.g., usatoday.com, space.com, phys.org, etc.); Available in https://phys.org/news/2019-07-humans-lava-tubes-moon.html   
 -&nbsp;&emsp;&nbsp; conference paper published [C5]
 &emsp;   
-* **[R5]   EAGER: Active Citizen Engagement to Enable Lifecycle Management of Infrastructure Systems** (05/2017 – 08/2018)   
+**EAGER: Active Citizen Engagement to Enable Lifecycle Management of Infrastructure Systems** (05/2017 – 08/2018)   
 -&nbsp;&emsp;&nbsp;Supported by NSF under Grant No. NSF-1645047   
 -&nbsp;&emsp;&nbsp;Develop a lifecycle structural management system using crowdsourced images.   
 -&nbsp;&emsp;&nbsp;My role is to lead project, develop demos, collect data, and publish.   
 -&nbsp;&emsp;&nbsp;1 journal paper published [J6]; 1 journal paper submitted [J8]
 &emsp;    
-* **[R4]   Image-Based Collection and Measurements for Construction Pay Items** (05/2015 – 08/2017)   
+**Image-Based Collection and Measurements for Construction Pay Items** (05/2015 – 08/2017)   
 -&nbsp;&emsp;&nbsp;Supported by INDOT under Grant No. SPR-4006   
 -&nbsp;&emsp;&nbsp;Develop a tool of graphical measurement to improve efficiency and safety at a construction site.  
 -&nbsp;&emsp;&nbsp;My contribution includes constructing model, developing tool, building a drone.   
 -&nbsp;&emsp;&nbsp;1 journal paper published [J4]; 1 conference paper published [C1]; 1 Technical Report published [C3]
 &emsp;    
-* **[R3]   VEST: Soft Armor Non-Destructive Evaluation Test Method: Vibration Energy Signature Test** (9/2014 – 08/2015)      
+**VEST: Soft Armor Non-Destructive Evaluation Test Method: Vibration Energy Signature Test** (9/2014 – 08/2015)      
 -&nbsp;&emsp;&nbsp;Supported by U.S. Department of Justice under Grant No. 2014-MU-CX-K004   
 -&nbsp;&emsp;&nbsp;Develop a non-destructive test method for soft body armor’s ballistic performance.   
 -&nbsp;&emsp;&nbsp;My role was to lead team, design systems, build experiment setup, derive model.
 &emsp;    
-* **[R2]  High Rate Compression Performance of Smartphone Buffer Materials** (08/2014 – 10/2014)   
+**High Rate Compression Performance of Smartphone Buffer Materials** (08/2014 – 10/2014)   
 -&nbsp;&emsp;&nbsp;Supported by Corvid co.   
 -&nbsp;&emsp;&nbsp;Assess the dynamic performance of various foam materials.   
 -&nbsp;&emsp;&nbsp;My contribution includes conducting experiments, analysis material behaviors.
 &emsp;    
-* **[R1]   Parametric Analysis of Scramjet Engine Varying Material and Fuel** (08/2012 – 05/2014)
+**Parametric Analysis of Scramjet Engine Varying Material and Fuel** (08/2012 – 05/2014)
 -&nbsp;&emsp;&nbsp;Supported graduate program by University of Mississippi.   
 -&nbsp;&emsp;&nbsp;Analytic research of Propulsion and Heat Transfer of an engine optimization problem.    
 -&nbsp;&emsp;&nbsp;3 journal papers published [J1], [J2], [J3]; 1 Master Thesis.
@@ -152,9 +149,9 @@ ads: false
 * **[C1]**   Chul Min Yeum, **Jongseong Choi**, & Shirley J. Dyke (2017), “Image Localization for Computer-enhanced Visual Inspection of Civil Infrastructure,” Proceedings of Engineering Mechanics Institute Conference, San Diago, CA, United States, June 4-7, 2017. [**[paper]**](https://bradjchoi.github.io/cv/Files/Conference/2017_EMI_Paper.pdf), [**[PPT]**](https://bradjchoi.github.io/cv/Files/Conference/2017_EMI_PPT.pdf)          
 
 #### Professional talks & presentations
-* **[T3]**   Professional Presentation, Midwest Smart Structure Colloquium (MSSC), Midwest US (11/2015, 10/2016, 10/2017, and 4/2019)   
-* **[T2]**   Professional Presentation, 9th European Workshop on Structural Health Monitoring, Manchester, UK, July (08/2018)   
-* **[T1]**   Poster Session, Annual Herrick IAC board meeting, West Lafayette, IN, USA (11/2015, 11/2016, 11/2017, and 11/2018)
+Professional Presentation, Midwest Smart Structure Colloquium (MSSC), Midwest US (11/2015, 10/2016, 10/2017, and 4/2019)   
+Professional Presentation, 9th European Workshop on Structural Health Monitoring, Manchester, UK, July (08/2018)   
+Poster Session, Annual Herrick IAC board meeting, West Lafayette, IN, USA (11/2015, 11/2016, 11/2017, and 11/2018)
 
 #### TEACHING / MENTORING RECORDS
 

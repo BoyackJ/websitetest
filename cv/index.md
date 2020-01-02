@@ -36,10 +36,10 @@ ads: false
 
 
 #### RESEARCH INTERESTS    
-**Visual Analytic**; **Engineering Mechanics**; **Computer Vision**; **Machine Learning**; **Structural Health Monitoring**; **Multiview Geometry**; **Big Visual Data**; Nondestructive testing; Propulsion
+**Visual Analytic**; **Engineering Mechanics**; **Computer Vision**; **Machine Learning**; **Sustainable Structure**; **Big Visual Data**; **Multiview Geometry**; **Aerial Manipulation**; Nondestructive testing; Numerical Heat Transfer
 
 #### EDUCATION and EMPLOYMENT HISTORY
-* Pres.&nbsp;&emsp;&nbsp; **Ph.D.**, Mechanical Eng., Purdue University, USA (adviser: [**Shirley J. Dyke**](https://engineering.purdue.edu/IISL/))           
+* 2020 &nbsp;&emsp;&nbsp; **Ph.D.**, Mechanical Eng., Purdue University, USA (adviser: [**Shirley J. Dyke**](https://engineering.purdue.edu/IISL/))           
 Dissertation: *Automating Visual Data Collection and Analytics toward Lifecycle Management of Engineering Systems*
 * 2014 &nbsp;&emsp; **M.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  
 Thesis: *Parametric Scramjet Analysis*
@@ -130,9 +130,9 @@ Thesis: *Parametric Scramjet Analysis*
 -&nbsp;&emsp;&nbsp;Co-authored proposal on behalf of Prof. Shirley J. Dyke and requested to Indiana Department of Transportation (INDOT).
 
 #### Peer-reviewed journal papers
-* **[J10]**   Ali Lenjani, Shirley J. Dyke, Ilias Bilionis, Chul Min Yeum, Kenzo Kamiya, **Jongseong Choi**, Xiaoyu Liu, & Arindam G. Chowdhury (2019), Towards fully automated post-event data collection and analysis: pre-event and post-event information fusion. *Engineering Structure*. (Accepted) [**[web]**](https://arxiv.org/pdf/1907.05285.pdf)          
-* **[J9]**   **Jongseong Choi**, Chul Min Yeum, Ali Lenjani, & Shirley J. Dyke, A Novel Building Searching & Identification Method for A Large Volume of Reconnaissance Images, in preparation - exp. submission in December 2019.     
-* **[J8]**   **Jongseong Choi** & Shirley J. Dyke (2019), CrowdLIM: Crowdsourcing to Enable Lifecycle Infrastructure Management. *Computers in Industry*, accepted      
+* **[J10]**   **Jongseong Choi**, Chul Min Yeum, Ali Lenjani, & Shirley J. Dyke, A Novel Building Searching & Identification Method for A Large Volume of Reconnaissance Images, in preparation - exp. submission in February 2020.
+* **[J9]**   **Jongseong Choi** & Shirley J. Dyke (2020), CrowdLIM: Crowdsourcing to Enable Lifecycle Infrastructure Management. *Computers in Industry*, 115, 103185. [**[web]**](https://www-sciencedirect-com.ezproxy.lib.purdue.edu/science/article/pii/S0166361519304981?dgcid=author)    
+* **[J8]**   Ali Lenjani, Shirley J. Dyke, Ilias Bilionis, Chul Min Yeum, Kenzo Kamiya, **Jongseong Choi**, Xiaoyu Liu, & Arindam G. Chowdhury (2019), Towards fully automated post-event data collection and analysis: pre-event and post-event information fusion. *Engineering Structure*. (Accepted) [**[web]**](https://arxiv.org/pdf/1907.05285.pdf)          
 * **[J7]**   **Jongseong Choi**, Patrikakis Charalampos, Chul Min Yeum, & Shirley J. Dyke, Robust Graffiti Detection Approach in European Historical Monuments, under review     
 * **[J6]**   **Jongseong Choi**., Chul Min Yeum, Shirley J. Dyke, & Mohammad J. Jahanshahi (2018), Computer-aided approach for rapid post-event visual evaluation of a building façade. *Sensors*, 18(9), 3017. [**[web]**](https://www.mdpi.com/1424-8220/18/9/3017)        
 * **[J5]**   Chul Min Yeum, **Jongseong Choi**, & Shirley J. Dyke. (2018), Automated region-of-interest localization and classification for vision-based visual assessment of civil infrastructure. *Structural Health Monitoring*, 1475921718765419. [**[web]**](https://journals.sagepub.com/doi/abs/10.1177/1475921718765419)        

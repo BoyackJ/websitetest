@@ -15,9 +15,14 @@ Google scholar: [goo.gl/QeTSgz](https://goo.gl/QeTSgz)
 YouTube: [https://www.youtube.com/channel/UCfUwbj8m5M7cvPJ0dd-9NxQ](https://www.youtube.com/channel/UCfUwbj8m5M7cvPJ0dd-9NxQ)   
 Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in/jongseong-choi-19b17617a)
 
-[**[Download CV]**](https://bradjchoi.github.io/Curriculum_Vitae_JongseongChoi.pdf)
+[**[Download CV]**](https://bradjchoi.github.io/Curriculum_Vitae_JongseongChoi_02Jan2020.pdf)
 
-**News**   
+**News**  
+(01/12/2020) I received a publication notification from *Computers in Industry*;  
+**Jongseong Choi** and Shirley J. Dyke, “CrowdLIM: Crowdsourcing to enable lifecycle infrastructure management,” published at *Computers in Industry* [**[Web]**](https://www-sciencedirect-com.ezproxy.lib.purdue.edu/science/article/pii/S0166361519304981?dgcid=author). Watch it YouTube. [**[YouTube]**](https://www-sciencedirect-com.ezproxy.lib.purdue.edu/science/article/pii/S0166361519304981?dgcid=author).
+ 
+(12/11/2019) I hold a webinar and delivered a talk regarding our ARIO tool, Automated Reconnaissance Image Organizer, to 15 faculty members and researchers in the field of disaster research in United States. Watch instruction of ARIO online. [**[web]**](https://www.youtube.com/watch?v=aKIj7sRVBv8)   
+
 (08/05/2019) The Lava Tube model generation was reported in numerous articles nationwide (e.g., usatoday.com, space.com, phys.org, etc.). Read it online. [**[web]**](https://phys.org/news/2019-07-humans-lava-tubes-moon.html)     
 
 (07/27/2019) I attended a 4-day intensive training workshop (July 23-26, 2019) at NHERI RAPID Experimental Facility, University of Washington, Seattle, WC. [**[image]**](https://bradjchoi.github.io/news_NHERI.jpg)
@@ -26,7 +31,7 @@ Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in
 
 (04/15/2019) I was a workshop director for 4th Midwest Smart Structure Colloquium (4MSSC) held in Purdue University (Apr 12-14, 2019), West Lafayette, IN. [**[image]**](https://bradjchoi.github.io/news_4MSSC.jpg)
 
-(12/18/2018) I went on a trip to Lava Beds National Monument in Tulelake, CA, to generate 3D models of the cave to simulate future human habitats under Moon or Mars surfaces as a part of a research project entitled "Resilience ExtraTerrestrial Habitat (RETH)", Dec 11-17, 2018. [**[image]**](https://bradjchoi.github.io/news_LavaTube.jpg) [**[PPT]**](https://bradjchoi.github.io/news_LavaTube.pdf) [**[Video]**](https://youtu.be/3PKLfVCvRDA)
+(12/18/2018) I went on a trip to Lava Beds National Monument in Tulelake, CA, to generate 3D models of the cave to simulate future human habitats under Moon or Mars surfaces as a part of a research project entitled "Resilience ExtraTerrestrial Habitat (RETH)", Dec 11-17, 2018. [**[image]**](https://bradjchoi.github.io/news_LavaTube.jpg) [**[PPT]**](https://bradjchoi.github.io/news_LavaTube.pdf) [**[YouTube]**](https://youtu.be/3PKLfVCvRDA)
 
 (09/09/2018) I received a publication notification from *Sensors*;  
 **Jongseong Choi**, Chul Min Yeum, Shirley J. Dyke, and Mohammad R. Jahanshahi, “Computer-Aided Approach for Rapid Post-Event Visual Evaluation of a Building Façade,” published at *Sensors* [**[Web]**](http://www.mdpi.com/1424-8220/18/9/3017)  
@@ -41,4 +46,4 @@ Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in
 
 (07/28/2016)  I received a research proposal award of $100,000 from NSF that I co-authored on behalf of Prof. Shirley J. Dyke. [**[web]**](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1645047)   
 
-Last updated: November 01, 2019
+Last updated: January 02, 2020

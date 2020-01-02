@@ -19,7 +19,7 @@ Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in
 
 **News**  
 (01/02/2020) I received a journal publication notification from *Computers in Industry*;  
-**Jongseong Choi** and Shirley J. Dyke, “CrowdLIM: Crowdsourcing to enable lifecycle infrastructure management,” published at *Computers in Industry* [**[Web]**](https://www-sciencedirect-com.ezproxy.lib.purdue.edu/science/article/pii/S0166361519304981?dgcid=author). Watch it YouTube. [**[YouTube]**](https://www-sciencedirect-com.ezproxy.lib.purdue.edu/science/article/pii/S0166361519304981?dgcid=author).
+* **Jongseong Choi** and Shirley J. Dyke, “CrowdLIM: Crowdsourcing to enable lifecycle infrastructure management,” published at *Computers in Industry* [**[Web]**](https://www-sciencedirect-com.ezproxy.lib.purdue.edu/science/article/pii/S0166361519304981?dgcid=author). Watch it YouTube. [**[YouTube]**](https://www-sciencedirect-com.ezproxy.lib.purdue.edu/science/article/pii/S0166361519304981?dgcid=author).
  
 (12/11/2019) I held a webinar and delivered a talk regarding our ARIO tool, Automated Reconnaissance Image Organizer, to 15 faculty members and researchers in the field of disaster research in United States. Watch instruction of ARIO online. [**[web]**](https://www.youtube.com/watch?v=aKIj7sRVBv8)   
 
@@ -34,7 +34,7 @@ Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in
 (12/18/2018) I went on a trip to Lava Beds National Monument in Tulelake, CA, to generate 3D models of the cave to simulate future human habitats under Moon or Mars surfaces as a part of a research project entitled "Resilience ExtraTerrestrial Habitat (RETH)", Dec 11-17, 2018. [**[image]**](https://bradjchoi.github.io/news_LavaTube.jpg) [**[PPT]**](https://bradjchoi.github.io/news_LavaTube.pdf) [**[YouTube]**](https://youtu.be/3PKLfVCvRDA)
 
 (09/09/2018) I received a journal publication notification from *Sensors*;  
-**Jongseong Choi**, Chul Min Yeum, Shirley J. Dyke, and Mohammad R. Jahanshahi, “Computer-Aided Approach for Rapid Post-Event Visual Evaluation of a Building Façade,” published at *Sensors* [**[Web]**](http://www.mdpi.com/1424-8220/18/9/3017)  
+* **Jongseong Choi**, Chul Min Yeum, Shirley J. Dyke, and Mohammad R. Jahanshahi, “Computer-Aided Approach for Rapid Post-Event Visual Evaluation of a Building Façade,” published at *Sensors* [**[Web]**](http://www.mdpi.com/1424-8220/18/9/3017)  
 
 (07/13/2018)  I served as a volunteer for disabled people at the Revitalise-Sandpipers Centre, Southport, Merseyside, UK. [**[web]**](http://revitalise.org.uk/respite-holidays/our-centres/sandpipers/)   [**[image]**](https://bradjchoi.github.io/news_Revitalise.jpg)
 

@@ -21,7 +21,7 @@ Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in
 (01/02/2020) I received a journal publication notification from *Computers in Industry*;  
 **Jongseong Choi** and Shirley J. Dyke, “CrowdLIM: Crowdsourcing to enable lifecycle infrastructure management,” published at *Computers in Industry* [**[Web]**](https://www-sciencedirect-com.ezproxy.lib.purdue.edu/science/article/pii/S0166361519304981?dgcid=author). Watch it YouTube. [**[YouTube]**](https://www-sciencedirect-com.ezproxy.lib.purdue.edu/science/article/pii/S0166361519304981?dgcid=author).
  
-(12/11/2019) I hold a webinar and delivered a talk regarding our ARIO tool, Automated Reconnaissance Image Organizer, to 15 faculty members and researchers in the field of disaster research in United States. Watch instruction of ARIO online. [**[web]**](https://www.youtube.com/watch?v=aKIj7sRVBv8)   
+(12/11/2019) I held a webinar and delivered a talk regarding our ARIO tool, Automated Reconnaissance Image Organizer, to 15 faculty members and researchers in the field of disaster research in United States. Watch instruction of ARIO online. [**[web]**](https://www.youtube.com/watch?v=aKIj7sRVBv8)   
 
 (08/05/2019) The Lava Tube model generation was reported in numerous articles nationwide (e.g., usatoday.com, space.com, phys.org, etc.). Read it online. [**[web]**](https://phys.org/news/2019-07-humans-lava-tubes-moon.html)     
 

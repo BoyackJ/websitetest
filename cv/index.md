@@ -18,36 +18,38 @@ ads: false
 - [RESEARCH INTERESTS](#RESEARCH INTERESTS)
 - [EDUCATION](#EDUCATION)
 - [RESEARCH RECORD](#RESEARCH RECORD)
-- [---&nbsp;&emsp;&nbsp;Professional research project](#Professional research project)
-- [---&nbsp;&emsp;&nbsp;Individual non-funded research project](#Individual non-funded research project)
-- [---&nbsp;&emsp;&nbsp;Proposal development](#Proposal development)
-- [---&nbsp;&emsp;&nbsp;Peer-reviewed journal papers](#Peer-reviewed journal papers)
-- [---&nbsp;&emsp;&nbsp;Referred conference papers & other articles](#Referred conference papers & other articles)
-- [---&nbsp;&emsp;&nbsp;Professional talks & presentations](#Professional talks & presentations)
+- [---&nbsp;&emsp;&nbsp;-Professional research project](#Professional research project)
+- [---&nbsp;&emsp;&nbsp;-Individual non-funded research project](#Individual non-funded research project)
+- [---&nbsp;&emsp;&nbsp;-Proposal development](#Proposal development)
+- [---&nbsp;&emsp;&nbsp;-Peer-reviewed journal papers](#Peer-reviewed journal papers)
+- [---&nbsp;&emsp;&nbsp;-Referred conference papers & other articles](#Referred conference papers & other articles)
+- [---&nbsp;&emsp;&nbsp;-Professional talks & presentations](#Professional talks & presentations)
 - [TEACHING / MENTORING RECORD](#TEACHING / MENTORING RECORD)
-- [---&nbsp;&emsp;&nbsp;Research advising (5 undergraduate students)](#Research advising)
-- [---&nbsp;&emsp;&nbsp;Course teaching](#Course teaching)
-- [---&nbsp;&emsp;&nbsp;STEM curriculum development for K-12 students](#STEM curriculum development for K-12 students)
-- [&nbsp;&emsp;&nbsp;
-- Teaching and educational service](#Teaching and educational service)
+- [---&nbsp;&emsp;&nbsp;-Research advising (5 undergraduate students)](#Research advising)
+- [---&nbsp;&emsp;&nbsp;-Course teaching](#Course teaching)
+- [---&nbsp;&emsp;&nbsp;-STEM curriculum development for K-12 students](#STEM curriculum development for K-12 students)
+- [&nbsp;&emsp;&nbsp;-Teaching and educational service](#Teaching and educational service)
 - [PROFESSIONAL LEADERSHIP EXPERIENCE](#PROFESSIONAL LEADERSHIP EXPERIENCE)
 - [PROFESSIONAL SERVICE & OTHER QUALIFICATIONS](#PROFESSIONAL SERVICE & OTHER QUALIFICATIONS])
 -->
 
 
 #### RESEARCH INTERESTS    
-**Visual Analytic**; **Engineering Mechanics**; **Computer Vision**; **Machine Learning**; **Sustainable Structure**; **Big Visual Data**; **Multiview Geometry**; **Aerial Manipulation**; Nondestructive testing; Numerical Heat Transfer
+ Visual Analytic; Engineering Mechanics; Computer Vision; Machine Learning; Sustainable Structure; Big Visual Data; Multiview Geometry; Aerial Manipulation; Nondestructive testing; Numerical Heat Transfer
 
 #### EDUCATION and EMPLOYMENT HISTORY
-* 2020 &nbsp;&emsp;&nbsp; **Ph.D.**, Mechanical Eng., Purdue University, USA (adviser: [**Shirley J. Dyke**](https://engineering.purdue.edu/IISL/))           
-Dissertation: *Automating Visual Data Collection and Analytics toward Lifecycle Management of Engineering Systems*
-* 2014 &nbsp;&emsp; **M.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  
-Thesis: *Parametric Scramjet Analysis*
-* 2012 &nbsp;&emsp; **B.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  
-* 2008 &nbsp;&emsp; **Army Sergent**, Army in fulfillment of the military draft, South Korea    
+2020 &nbsp;&emsp;&nbsp; **Ph.D.**, Mechanical Eng., Purdue University, USA (adviser: [**Shirley J. Dyke**](https://engineering.purdue.edu/IISL/))           
+> Dissertation: *Automating Visual Data Collection and Analytics toward Lifecycle Management of Engineering Systems*
+ 
+2014 &nbsp;&emsp; **M.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  
+> Thesis: *Parametric Scramjet Analysis*
+
+2012 &nbsp;&emsp; **B.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  
+2008 &nbsp;&emsp; **Army Sergent**, Army in fulfillment of the military draft, South Korea
+    
 #### RESEARCH RECORDS 
 #### Professional research project
-* **[R8]   Integrating Human and Machine for Post-Disaster Visual Data Analytic** (01/2019 – Present)   
+* **[R8Integrating Human and Machine for Post-Disaster Visual Data Analytic** (01/2019 – Present)   
 -&nbsp;&emsp;&nbsp;Supported by NSF under Grant No. NSF-1835473  
 -&nbsp;&emsp;&nbsp;Develop a visual data retrieving software to search for data based on visual similarity, using Siamese Network.  
 -&nbsp;&emsp;&nbsp;My contribution includes developing similarity-based image classification tool such as PyTorch and Tensorflow. 

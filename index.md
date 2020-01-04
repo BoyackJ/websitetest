@@ -23,7 +23,7 @@ Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in
  
 (12/11/2019) I held a webinar and delivered a talk regarding our ARIO tool, Automated Reconnaissance Image Organizer, to 15 faculty members and researchers in the field of disaster research in United States. Watch instruction of ARIO online. [**[web]**](https://www.youtube.com/watch?v=aKIj7sRVBv8)   
 
-(08/05/2019) The Lava Tube model generation was reported in numerous articles nationwide (e.g., usatoday.com, space.com, phys.org, etc.). Read it online. [**[web]**](https://phys.org/news/2019-07-humans-lava-tubes-moon.html)     
+(08/05/2019) My Lava Tube model generation from Tulelake, CA, was reported in numerous articles nationwide (e.g., usatoday.com, space.com, phys.org, etc.). Read it online. [**[web]**](https://phys.org/news/2019-07-humans-lava-tubes-moon.html)     
 
 (07/27/2019) I attended a 4-day intensive training workshop (July 23-26, 2019) at NHERI RAPID Experimental Facility, University of Washington, Seattle, WC. [**[image]**](https://bradjchoi.github.io/news_NHERI.jpg)
 

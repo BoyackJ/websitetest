@@ -39,7 +39,8 @@ ads: false
 
 #### EDUCATION and EMPLOYMENT HISTORY
 * 2020 &nbsp;&emsp;&nbsp; **Ph.D.**, Mechanical Eng., Purdue University, USA (adviser: [**Shirley J. Dyke**](https://engineering.purdue.edu/IISL/))           
-&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&nbsp; Dissertation: *Automating Visual Data Collection and Analytics toward Lifecycle Management of Engineering Systems*
+&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&nbsp; Dissertation: *Automating Visual Data Collection and Analytics toward Lifecycle* 
+&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&nbsp; *Management of Engineering Systems*
 * 2014 &nbsp;&emsp; **M.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  
 &nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&nbsp; Thesis: *Parametric Scramjet Analysis*
 * 2012 &nbsp;&emsp; **B.Sc.**, Mechanical Eng., University of Mississippi, USA (adviser: [**Jeffrely A. Roux**](https://www.engineering.olemiss.edu/~meroux/)).  

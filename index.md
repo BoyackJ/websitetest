@@ -15,7 +15,7 @@ Google scholar: [goo.gl/QeTSgz](https://goo.gl/QeTSgz)
 YouTube: [https://www.youtube.com/channel/UCfUwbj8m5M7cvPJ0dd-9NxQ](https://www.youtube.com/channel/UCfUwbj8m5M7cvPJ0dd-9NxQ)   
 Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in/jongseong-choi-19b17617a)
 
-[**[Download CV]**](https://bradjchoi.github.io/Curriculum_Vitae_JongseongChoi_31Jan2020.pdf)
+[**[Download CV]**](https://bradjchoi.github.io/Curriculum_Vitae_JongseongChoi_5March2020.pdf)
 
 **News**  
 (01/02/2020) I received a journal publication notification from *Computers in Industry*;  

@@ -5,7 +5,7 @@ ads: false
 ---
  
 <img src="selfie4.jpg" width="200">    
-**PhD Candidate / Graduate Research Assistant**     
+**Ph.D. / Graduate Research Assistant**     
 **Mechanical and Computer Vision Engineer**
 
 School of Mechanical Engineering, Purdue University  

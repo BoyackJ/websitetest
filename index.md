@@ -5,7 +5,7 @@ ads: false
 ---
  
 <img src="selfie4.jpg" width="200">    
-**Ph.D. / Graduate Research Assistant**     
+**Jongseong Choi (Brad), Ph.D.**   
 **Mechanical and Computer Vision Engineer**
 
 School of Mechanical Engineering, Purdue University  

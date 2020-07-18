@@ -6,7 +6,7 @@ ads: false
  
 <img src="selfie4.jpg" width="200">    
 **Jongseong Choi (Brad), Ph.D.**   
-Assistant Professor     
+<span style="font-size:4em;">Assistant Professor</span>     
 Department of Mechanical Engineering    
 The State University of New York Korea - Stony Brook University    
 Email: jongseong.choi@stonybrook.edu   

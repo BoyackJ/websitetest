@@ -6,18 +6,24 @@ ads: false
  
 <img src="selfie4.jpg" width="200">    
 **Jongseong Choi (Brad), Ph.D.**   
-**Mechanical and Computer Vision Engineer**
+Assistant Professor
+Department of Mechanical Engineering, Purdue University  
+The State University of New York Korea - Stony Brook University
 
-School of Mechanical Engineering, Purdue University  
-Email: bradchoi343@gmail.com   
+Email: jongseong.choi@stonybrook.edu   
 Homepage: [bradjchoi.github.io](https://bradjchoi.github.io)    
 Google scholar: [goo.gl/QeTSgz](https://goo.gl/QeTSgz)    
 YouTube: [https://www.youtube.com/channel/UCfUwbj8m5M7cvPJ0dd-9NxQ](https://www.youtube.com/channel/UCfUwbj8m5M7cvPJ0dd-9NxQ)   
 Linkedin: [linkedin.com/in/jongseong-choi-19b17617a](https://www.linkedin.com/in/jongseong-choi-19b17617a)
 
-[**[Download CV]**](https://bradjchoi.github.io/Curriculum_Vitae_JongseongChoi_4June2020.pdf)
+[**[Download CV]**](https://bradjchoi.github.io/Curriculum_Vitae_JongseongChoi_17July2020.pdf)
 
 **News**  
+(08/01/2020) I started a new position as an assistant professor in Dept. Mechanical Engineering at The State University of New York Korea - Stony Brook University
+
+(05/26/2020) I completed my Ph.D. defense at Purdue University with a dissertation entitled;
+Automating Visual Data Collection and Analytics toward Lifecycle Management of Engineering Systems
+
 (01/02/2020) I received a journal publication notification from *Computers in Industry*;  
 * **Jongseong Choi** and Shirley J. Dyke (2020), “CrowdLIM: Crowdsourcing to enable lifecycle infrastructure management,” published at *Computers in Industry* [**[Web]**](https://doi.org/10.1016/j.compind.2019.103185). Watch it YouTube. [**[YouTube]**](https://www.youtube.com/watch?v=xaHyl8qYd64).
  

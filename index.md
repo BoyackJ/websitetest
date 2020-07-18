@@ -11,9 +11,7 @@ Department of Mechanical Engineering
 The State University of New York Korea - Stony Brook University    
 Email: jongseong.choi@stonybrook.edu   
 
-[Google scholar](https://goo.gl/QeTSgz) | [YouTube](https://www.youtube.com/channel/UCfUwbj8m5M7cvPJ0dd-9NxQ) | [Linkedin](https://www.linkedin.com/in/jongseong-choi-19b17617a) | [Personal Website](https://bradjchoi.github.io)
-
-[**[Download CV]**](https://bradjchoi.github.io/Curriculum_Vitae_JongseongChoi_17July2020.pdf)
+[Google scholar](https://goo.gl/QeTSgz) | [YouTube](https://www.youtube.com/channel/UCfUwbj8m5M7cvPJ0dd-9NxQ) | [Linkedin](https://www.linkedin.com/in/jongseong-choi-19b17617a) | [Personal Website](https://bradjchoi.github.io) | [**[Download CV]**](https://bradjchoi.github.io/Curriculum_Vitae_JongseongChoi_17July2020.pdf)
 
 **News**  
 (08/01/2020) I started a new position as an assistant professor in Dept. Mechanical Engineering at The State University of New York Korea - Stony Brook University

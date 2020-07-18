@@ -9,25 +9,25 @@ ads: false
 <span style="font-size:0.8em;">Assistant Professor</span>     
 <span style="font-size:0.8em;">Department of Mechanical Engineering</span>      
 <span style="font-size:0.8em;">The State University of New York Korea - Stony Brook University</span>      
-<span style="font-size:0.6em;">Email: jongseong.choi@stonybrook.edu</span>     
+<span style="font-size:0.8em;">Email: jongseong.choi@stonybrook.edu</span>     
 
-<span style="font-size:0.8em;">[**[Download CV]**](https://bradjchoi.github.io/Curriculum_Vitae_JongseongChoi_17July2020.pdf) | [Google scholar](https://goo.gl/QeTSgz) | [YouTube](https://www.youtube.com/channel/UCfUwbj8m5M7cvPJ0dd-9NxQ) |
+<span style="font-size:0.6em;">[**[Download CV]**](https://bradjchoi.github.io/Curriculum_Vitae_JongseongChoi_17July2020.pdf) | [Google scholar](https://goo.gl/QeTSgz) | [YouTube](https://www.youtube.com/channel/UCfUwbj8m5M7cvPJ0dd-9NxQ) |
 [Linkedin](https://www.linkedin.com/in/jongseong-choi-19b17617a)</span>  
 - - - -  - - - -  - - - -
 **News**  
-<span style="font-size:0.6em;">(08/01/2020) I started a new position as an assistant professor in Dept. Mechanical Engineering at The State University of New York Korea - Stony Brook University</span>
+<span style="font-size:0.8em;">(08/01/2020) I started a new position as an assistant professor in Dept. Mechanical Engineering at The State University of New York Korea - Stony Brook University</span>
 
-(05/26/2020) I completed my Ph.D. defense at Purdue University with a dissertation entitled;
-Automating Visual Data Collection and Analytics toward Lifecycle Management of Engineering Systems
+<span style="font-size:0.8em;">(05/26/2020) I completed my Ph.D. defense at Purdue University with a dissertation entitled;
+Automating Visual Data Collection and Analytics toward Lifecycle Management of Engineering Systems</span>
 
-(01/02/2020) I received a journal publication notification from *Computers in Industry*;  
-* **Jongseong Choi** and Shirley J. Dyke (2020), “CrowdLIM: Crowdsourcing to enable lifecycle infrastructure management,” published at *Computers in Industry* [**[Web]**](https://doi.org/10.1016/j.compind.2019.103185). Watch it YouTube. [**[YouTube]**](https://www.youtube.com/watch?v=xaHyl8qYd64).
+<span style="font-size:0.8em;">(01/02/2020) I received a journal publication notification from *Computers in Industry*;</span>  
+<span style="font-size:0.7em;">* **Jongseong Choi** and Shirley J. Dyke (2020), “CrowdLIM: Crowdsourcing to enable lifecycle infrastructure management,” published at *Computers in Industry* [**[Web]**](https://doi.org/10.1016/j.compind.2019.103185). Watch it YouTube. [**[YouTube]**](https://www.youtube.com/watch?v=xaHyl8qYd64).</span>
  
-(12/11/2019) I held a webinar and delivered a talk regarding our ARIO tool, Automated Reconnaissance Image Organizer, to 15 faculty members and researchers in the field of disaster research in United States. Watch instruction of ARIO online. [**[web]**](https://www.youtube.com/watch?v=aKIj7sRVBv8)   
+<span style="font-size:0.8em;">(12/11/2019) I held a webinar and delivered a talk regarding our ARIO tool, Automated Reconnaissance Image Organizer, to 15 faculty members and researchers in the field of disaster research in United States. Watch instruction of ARIO online. [**[web]**](https://www.youtube.com/watch?v=aKIj7sRVBv8)</span>   
 
-(08/05/2019) My Lava Tube model generation from Tulelake, CA, was reported in numerous articles nationwide (e.g., usatoday.com, space.com, phys.org, etc.). Read it online. [**[web]**](https://phys.org/news/2019-07-humans-lava-tubes-moon.html)     
+<span style="font-size:0.8em;">(08/05/2019) My Lava Tube model generation from Tulelake, CA, was reported in numerous articles nationwide (e.g., usatoday.com, space.com, phys.org, etc.). Read it online. [**[web]**](https://phys.org/news/2019-07-humans-lava-tubes-moon.html</span>)     
 
-(07/27/2019) I attended a 4-day intensive training workshop (July 23-26, 2019) at NHERI RAPID Experimental Facility, University of Washington, Seattle, WC. [**[image]**](https://bradjchoi.github.io/news_NHERI.jpg)
+<span style="font-size:0.8em;">(07/27/2019) I attended a 4-day intensive training workshop (July 23-26, 2019) at NHERI RAPID Experimental Facility, University of Washington, Seattle, WC. [**[image]**](https://bradjchoi.github.io/news_NHERI.jpg)</span>
 
 (04/23/2019) I received a travel award of $1,500 along with a workshop invitation from NHERI RAPID Experimental Facility, University of Washington, Seattle, WC. This invitation was extended to only thirty researchers based on their aptitude for writing proposals.
 

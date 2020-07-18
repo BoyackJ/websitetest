@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Jongseong Choi (Brad)
+title: Jongseong Brad Choi
 description: "Personal Website"
 logo: logo.jpg
 teaser: logo.jpg
@@ -28,7 +28,7 @@ gist:
 
 # Site owner
 owner:
-  name: “Jongseong Choi (Brad)“
+  name: “Jongseong Brad Choi“
   web: "https://bradjchoi.github.io"
   bio: “Mechanical and Computer Vision Engineer"
   avatar: "bio-photo.jpg" # 160x160 px image for author byline

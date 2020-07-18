@@ -5,7 +5,7 @@ ads: false
 ---
  
 <img src="selfie4.jpg" width="200">    
-<span style="font-size:0.8em;">**Jongseong Choi (Brad), Ph.D.**</span>     
+<span style="font-size:0.8em;">**Jongseong Brad Choi, Ph.D.**</span>     
 <span style="font-size:0.8em;">Assistant Professor</span>     
 <span style="font-size:0.8em;">Department of Mechanical Engineering</span>      
 <span style="font-size:0.8em;">The State University of New York Korea - Stony Brook University</span>      

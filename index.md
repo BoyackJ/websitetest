@@ -9,13 +9,13 @@ ads: false
 <span style="font-size:0.8em;">Assistant Professor</span>     
 <span style="font-size:0.8em;">Department of Mechanical Engineering</span>      
 <span style="font-size:0.8em;">The State University of New York Korea - Stony Brook University</span>      
-<span style="font-size:0.8em;">Email: jongseong.choi@stonybrook.edu</span>     
+<span style="font-size:0.6em;">Email: jongseong.choi@stonybrook.edu</span>     
 
 <span style="font-size:0.8em;">[**[Download CV]**](https://bradjchoi.github.io/Curriculum_Vitae_JongseongChoi_17July2020.pdf) | [Google scholar](https://goo.gl/QeTSgz) | [YouTube](https://www.youtube.com/channel/UCfUwbj8m5M7cvPJ0dd-9NxQ) |
 [Linkedin](https://www.linkedin.com/in/jongseong-choi-19b17617a)</span>  
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+- - - -  - - - -  - - - -
 **News**  
-(08/01/2020) I started a new position as an assistant professor in Dept. Mechanical Engineering at The State University of New York Korea - Stony Brook University
+<span style="font-size:0.6em;">(08/01/2020) I started a new position as an assistant professor in Dept. Mechanical Engineering at The State University of New York Korea - Stony Brook University</span>
 
 (05/26/2020) I completed my Ph.D. defense at Purdue University with a dissertation entitled;
 Automating Visual Data Collection and Analytics toward Lifecycle Management of Engineering Systems
